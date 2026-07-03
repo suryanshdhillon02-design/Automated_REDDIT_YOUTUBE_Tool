@@ -1,0 +1,20 @@
+{
+  "name": "patient-voice-extraction",
+  "version": "1.0.0",
+  "description": "Automated extraction of patient voices from YouTube and Reddit for clinical research",
+  "main": "scraper.js",
+  "type": "module",
+  "scripts": {
+    "start": "node scraper.js",
+    "extract:youtube": "node scraper.js --source youtube",
+    "extract:reddit": "node scraper.js --source reddit",
+    "extract:all": "node scraper.js --source all"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
