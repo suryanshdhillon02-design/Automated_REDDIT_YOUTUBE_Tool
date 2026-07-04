@@ -1,14 +1,448 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-04T04:59:39.730Z",
+    "generatedAt": "2026-07-04T09:55:58.582Z",
     "cancerType": "ovarian",
-    "sources": []
+    "sources": [
+      {
+        "name": "Reddit",
+        "postsAnalyzed": 41,
+        "quotesExtracted": 35
+      }
+    ]
   },
-  "quotes": [],
+  "quotes": [
+    {
+      "text": "I had my first post-chemo labs for my three month check and my CA125 was only 6.7!",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "I'm okay!",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ugzfvb/im_okay/",
+      "score": 29,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Has next gyn onc appointment in 2 days, I don’t know what he will say.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Mom’s cancer may have reoccurred",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ue203y/moms_cancer_may_have_reoccurred/",
+      "score": 13,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My diagnosis in January coincided with surgery to remove the mass (we didn't know it was cancer prior to surgery), which turned out to be a hysterectomy and BSO.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Clear Scans but Stopping Chemo Early?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ueyiim/clear_scans_but_stopping_chemo_early/",
+      "score": 11,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I started chemo, paclitaxel and carboplatin, and after 3 rounds, when I went for a CT scan, got the good word that everything looked clear and no evidence of disease!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [
+        "paclitaxel",
+        "carboplatin"
+      ],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Clear Scans but Stopping Chemo Early?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ueyiim/clear_scans_but_stopping_chemo_early/",
+      "score": 11,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Now, throughout the three rounds of chemo, I tolerated it very well, other than some minor nausea and fatigue, and in fact everyone commented on how well I was doing.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Clear Scans but Stopping Chemo Early?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ueyiim/clear_scans_but_stopping_chemo_early/",
+      "score": 11,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Because I was \"tolerating\" the chemo so well, my oncologist and my surgeon were both really pushing me to extend the treatment from 3 rounds to 6, so as to lessen the risk of recurrence (from 25% to 20%).",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Clear Scans but Stopping Chemo Early?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ueyiim/clear_scans_but_stopping_chemo_early/",
+      "score": 11,
+      "author": "[deleted]"
+    },
+    {
+      "text": "So, I went in for the fourth round, left feeling like I normally did after each chemo round, and then, two days afterwards, was hit by the worst stomach pains, like 9 or 10 out of 10, that sent me to the ER, puking so bad from pain that I couldn't even keep water down for a whole day.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Clear Scans but Stopping Chemo Early?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ueyiim/clear_scans_but_stopping_chemo_early/",
+      "score": 11,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My oncologist sent me for a CT scan and it came back positive for reoccurrence.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Reoccurrence",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1uf9l7u/reoccurrence/",
+      "score": 9,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My first treatment with taxol I did have a sensitivity reaction with flushing,shortness of breath.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "taxol"
+      ],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Reoccurrence",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1uf9l7u/reoccurrence/",
+      "score": 9,
+      "author": "[deleted]"
+    },
+    {
+      "text": "She has been through a lot already, and we are thinking is it worth her going on Avastin.",
+      "theme": null,
+      "dimension": "doubts_objections",
+      "drugs": [
+        "avastin"
+      ],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Ovarian cancer - Avastin or no drug?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ujoz6g/ovarian_cancer_avastin_or_no_drug/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I repeated the CA125 blood test 25 days after the hysteroscopy and it came back at 137!",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Premenopausal CA125 at 137 - referred for 2ww",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1udj5d0/premenopausal_ca125_at_137_referred_for_2ww/",
+      "score": 7,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Appointment is next week but i'm now spiralling a bit from how high this result is and how quickly it rose from Feb.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Premenopausal CA125 at 137 - referred for 2ww",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1udj5d0/premenopausal_ca125_at_137_referred_for_2ww/",
+      "score": 7,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I had emergency surgery and was told because it came back that ill need to do 6 rounds of chemo now.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Pregnancy? after diagnosis",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ulv92e/pregnancy_after_diagnosis/",
+      "score": 4,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My sister was diagnosed with Stage IV ovarian cancer (BRCA1 positive).",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Please suggest on weight loss of my sister",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ug19mx/please_suggest_on_weight_loss_of_my_sister/",
+      "score": 4,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Her CA-125 has dropped significantly from 1300 to 23, I am worried about her weight loss.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Please suggest on weight loss of my sister",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ug19mx/please_suggest_on_weight_loss_of_my_sister/",
+      "score": 4,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I met with the NEW oncologist yesterday and he told me that at stage 1B that I wouldn’t need chemo, just monitoring for 5 years (blood tests and scans).",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Is chemo necessary?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ujr6k5/is_chemo_necessary/",
+      "score": 2,
+      "author": "[deleted]"
+    },
+    {
+      "text": "One oncologist says chemo, the next one says I don’t need chemo.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Is chemo necessary?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ujr6k5/is_chemo_necessary/",
+      "score": 2,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I have upper right hand quadrant pain and gallstones, seeing a GI doc next month.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Possible ovarian cancer",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ui9ouy/possible_ovarian_cancer/",
+      "score": 2,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Hi everyone, I (22F) was diagnosed with a dysgermonoma last year in February, it was a terrifying experience and due to a surgery I received removing my right ovary, I am cancer free.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "In need of some moral support",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ugf26e/in_need_of_some_moral_support/",
+      "score": 2,
+      "author": "[deleted]"
+    },
+    {
+      "text": "However, when I first got my surgery I had a fear that I won’t able to have children or it would be harder to have children due to my PCOS and one ovary (I like to joke around and say I’m half a woman).",
+      "theme": "emotional",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "In need of some moral support",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ugf26e/in_need_of_some_moral_support/",
+      "score": 2,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I just feel like I have a ton of pressure to do surgery and i will do it but I just want to know if egg retrieval is possible for me because I don’t know how I will be mentally if I wake up with no ovaries and go into menopause I’m actually scared for myself and my mental health.",
+      "theme": "emotional",
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "They want to remove both ovaries",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ue5uqw/they_want_to_remove_both_ovaries/",
+      "score": 2,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Been having weight loss, bleeding outside of period - more consistently as of recently, low wbc, and history of ovarian cancer in my family.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Nervous about cancer",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1udgoo7/nervous_about_cancer/",
+      "score": 2,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Once going I get an overwhelming feeling of nausea and sickness.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "From constipation to going every time I eat or drink anything",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1umubq8/from_constipation_to_going_every_time_i_eat_or/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "It’s said normal value is 0.0 - 38.1 and mine came back 766.0 so I followed up with my gynecologist and I have an appointment over a month away and I’m kind of spiraling I’m a young middle aged twenty year old and I’m scared what this could mean.",
+      "theme": "emotional",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "My CA-125 came back high",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1umqsqu/my_ca125_came_back_high/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I often get hospitalized from pain, they hemorrhage and I’ve needed antibiotic treatments for the amount of blood that gets in my abdomen.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "When did you get worried?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1um1rgq/when_did_you_get_worried/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My mum is 56 years old and was just diagnosed with stage IIIC ovarian cancer after her debulking surgery last week.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Looking for advice from ovarian cancer caregivers and survivors",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1uid1zb/looking_for_advice_from_ovarian_cancer_caregivers/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "She’ll likely be starting chemotherapy soon, and I want to do everything I can to help.",
+      "theme": null,
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Looking for advice from ovarian cancer caregivers and survivors",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1uid1zb/looking_for_advice_from_ovarian_cancer_caregivers/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "It is most likely endo but I've been put on the suspected cancer pathway and got an appointment within a few weeks.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "What happened at your first NHS gynaecology appointment?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ug4rg6/what_happened_at_your_first_nhs_gynaecology/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My appointment is just around the corner but I have no clue what happens at this appointment and if I need to mentally prepare myself for possible exams.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "What happened at your first NHS gynaecology appointment?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ug4rg6/what_happened_at_your_first_nhs_gynaecology/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I have been experiencing lower back pain on both ends of my lower back, stomach feeling/looking bloated, loss of appetite, lower pelvic discomfort on both ends and when I last used the restroom, my stool was watery diarrhea.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Symptoms",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ukwvqf/symptoms/",
+      "score": 0,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I never get diarrhea therefore really concerned about these symptoms😔💔🙏🕊 Should I go to the hospital to get myself checked out or should I wait for my OBGYN appointment on the 9th of this month?",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Symptoms",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1ukwvqf/symptoms/",
+      "score": 0,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My MRI and PET-CT showed that the cancer appears to be confined to the cervix with no evidence of lymph node involvement or spread elsewhere.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "FIGO IB2 cervical cancer (2.8 cm) - anyone with experience of fertility-sparing treatment or Liverpool Women's Hospital?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1uievqi/figo_ib2_cervical_cancer_28_cm_anyone_with/",
+      "score": 0,
+      "author": "[deleted]"
+    },
+    {
+      "text": "While reading some medical papers, I came across studies describing neoadjuvant chemotherapy followed by fertility-sparing surgery for selected women with tumours between 2 and 4 cm.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "FIGO IB2 cervical cancer (2.8 cm) - anyone with experience of fertility-sparing treatment or Liverpool Women's Hospital?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1uievqi/figo_ib2_cervical_cancer_28_cm_anyone_with/",
+      "score": 0,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I don't fully understand what this means yet and my doctor appointment feels far away.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Just got my ultrasound back, 4.5cm fundal fibroid and an 8.6cm cyst. Feeling scared and overwhelmed waiting for my doctor appointment.",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1uhjlfm/just_got_my_ultrasound_back_45cm_fundal_fibroid/",
+      "score": 0,
+      "author": "[deleted]"
+    },
+    {
+      "text": "How did you cope with the waiting and what should I expect going into the appointment?",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Just got my ultrasound back, 4.5cm fundal fibroid and an 8.6cm cyst. Feeling scared and overwhelmed waiting for my doctor appointment.",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1uhjlfm/just_got_my_ultrasound_back_45cm_fundal_fibroid/",
+      "score": 0,
+      "author": "[deleted]"
+    }
+  ],
   "themes": {
     "physical": {
       "label": "Physical symptoms & side effects",
-      "count": 0
+      "count": 8
     },
     "neuropathy": {
       "label": "Peripheral neuropathy",
@@ -24,11 +458,11 @@
     },
     "emotional": {
       "label": "Emotional & mental health",
-      "count": 0
+      "count": 3
     },
     "system": {
       "label": "Healthcare system & care navigation",
-      "count": 0
+      "count": 11
     },
     "financial": {
       "label": "Financial & insurance burden",
@@ -36,11 +470,11 @@
     },
     "worklife": {
       "label": "Work, family & relationships",
-      "count": 0
+      "count": 2
     },
     "uncertainty": {
       "label": "Diagnosis, prognosis & uncertainty",
-      "count": 0
+      "count": 9
     }
   }
 }
