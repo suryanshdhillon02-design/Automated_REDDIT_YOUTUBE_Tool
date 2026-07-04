@@ -22,7 +22,10 @@ on:
 jobs:
   extract:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     strategy:
+      max-parallel: 1
       matrix:
         cancer_type: [breast, lung, colon, prostate, ovarian]
     timeout-minutes: 30
@@ -50,11 +53,24 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add data/
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: Extract patient voices for ${{ matrix.cancer_type }} - $(date +%Y-%m-%d)" && git push)
+          if git diff --staged --quiet; then
+            echo "No new data to commit."
+            exit 0
+          fi
+          git commit -m "Auto: Extract patient voices for ${{ matrix.cancer_type }} - $(date +%Y-%m-%d)"
+          # Parallel matrix jobs push to the same branch — rebase & retry to avoid
+          # non-fast-forward rejections when another cancer_type pushes first.
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push origin HEAD:main && exit 0
+            echo "Push attempt $i failed, retrying in $((RANDOM % 10 + 3))s…"
+            sleep $((RANDOM % 10 + 3))
+          done
+          echo "::error::Failed to push after 5 attempts"
+          exit 1
 
       - name: Upload artifacts
         if: always()
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: patient-voice-data-${{ matrix.cancer_type }}
           path: data/

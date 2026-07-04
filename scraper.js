@@ -206,17 +206,17 @@ async function fetchYouTube(cancerType, maxVideos = 20, apiKey) {
   return videos;
 }
 
-async function fetchYouTubeComments(videoIds, apiKey, maxPerVideo = 100) {
+async function fetchYouTubeComments(videos, apiKey, maxPerVideo = 100) {
   const comments = [];
 
-  for (const vid of videoIds) {
+  for (const video of videos) {
     try {
       const params = new URLSearchParams({
         part: "snippet",
         order: "relevance",
         textFormat: "plainText",
         maxResults: maxPerVideo,
-        videoId: vid,
+        videoId: video.id,
         key: apiKey
       });
 
@@ -229,7 +229,10 @@ async function fetchYouTubeComments(videoIds, apiKey, maxPerVideo = 100) {
           comments.push({
             text: snippet.textOriginal || "",
             likes: snippet.likeCount || 0,
-            videoId: vid
+            videoId: video.id,
+            videoTitle: video.title,
+            videoUrl: video.url,
+            channel: video.channel
           });
         }
       }
@@ -241,36 +244,75 @@ async function fetchYouTubeComments(videoIds, apiKey, maxPerVideo = 100) {
   return comments;
 }
 
+// Arctic Shift is a research archive of Reddit that permits programmatic,
+// unauthenticated access — unlike reddit.com, which 403s cloud/CI IP ranges.
+// Live Reddit is kept only as a best-effort fallback.
+const ARCTIC_SHIFT_URL = "https://arctic-shift.photon-reddit.com/api/posts/search";
+const REDDIT_UA = "Mozilla/5.0 (compatible; PatientVoiceExtractor/1.0; +https://github.com/suryanshdhillon02-design/Automated_REDDIT_YOUTUBE_Tool)";
+
+async function fetchFromArcticShift(sub, maxPosts) {
+  const params = new URLSearchParams({
+    subreddit: sub,
+    limit: String(Math.min(maxPosts, 100)),
+    sort: "desc"
+  });
+  const res = await axios.get(`${ARCTIC_SHIFT_URL}?${params}`, {
+    headers: { "User-Agent": REDDIT_UA },
+    timeout: 30000
+  });
+  const items = Array.isArray(res.data?.data) ? res.data.data : [];
+  return items
+    .filter(d => d.selftext && d.selftext.length > 20)
+    .map(d => ({
+      title: d.title || "",
+      text: d.selftext || "",
+      created: d.created_utc ? new Date(d.created_utc * 1000).toISOString() : "",
+      url: d.permalink ? `https://reddit.com${d.permalink}` : (d.url || ""),
+      subreddit: sub,
+      score: d.score || 0
+    }));
+}
+
+async function fetchFromLiveReddit(sub, maxPosts) {
+  const res = await axios.get(
+    `https://www.reddit.com/r/${sub}/new.json?limit=${Math.min(maxPosts, 100)}`,
+    { headers: { "User-Agent": REDDIT_UA }, timeout: 30000 }
+  );
+  const items = res.data?.data?.children || [];
+  return items
+    .map(i => i.data)
+    .filter(d => d.selftext && d.selftext.length > 20)
+    .map(d => ({
+      title: d.title || "",
+      text: d.selftext || "",
+      created: d.created_utc ? new Date(d.created_utc * 1000).toISOString() : "",
+      url: `https://reddit.com${d.permalink}`,
+      subreddit: sub,
+      score: d.score || 0
+    }));
+}
+
 async function fetchReddit(cancerType, maxPosts = 50) {
   const key = cancerType.toLowerCase().replace(/\s*cancer\s*$/, "");
   const subs = REDDIT_SUB_MAP[key] || ["cancer", "cancersurvivors"];
   const posts = [];
+  const perSub = Math.ceil(maxPosts / subs.length);
 
   for (const sub of subs) {
+    let got = [];
     try {
-      log(`🔍 Searching Reddit: r/${sub}`);
-      const res = await axios.get(`https://www.reddit.com/r/${sub}/new.json?limit=${Math.min(maxPosts, 100)}`, {
-        headers: { "User-Agent": "PatientVoiceExtractor/1.0" }
-      });
-
-      const items = res.data?.data?.children || [];
-      for (const item of items.slice(0, maxPosts)) {
-        const data = item.data;
-        if (data.selftext) {
-          posts.push({
-            title: data.title || "",
-            text: data.selftext || "",
-            author: data.author || "[deleted]",
-            created: new Date(data.created_utc * 1000).toISOString(),
-            url: `https://reddit.com${data.permalink}`,
-            subreddit: sub,
-            score: data.score || 0
-          });
-        }
-      }
+      log(`🔍 Searching Reddit (Arctic Shift): r/${sub}`);
+      got = await fetchFromArcticShift(sub, perSub);
     } catch (e) {
-      log(`⚠️  Reddit fetch error for r/${sub}: ${e.message}`);
+      log(`⚠️  Arctic Shift failed for r/${sub} (${e.message}) — trying live Reddit…`);
+      try {
+        got = await fetchFromLiveReddit(sub, perSub);
+      } catch (e2) {
+        log(`⚠️  Live Reddit also failed for r/${sub}: ${e2.message}`);
+      }
     }
+    log(`   → ${got.length} posts from r/${sub}`);
+    posts.push(...got);
   }
 
   log(`✅ Found ${posts.length} Reddit posts`);
@@ -375,8 +417,7 @@ async function main() {
     try {
       const videos = await fetchYouTube(cancerType, 20, ytApiKey);
       if (videos.length > 0) {
-        const videoIds = videos.map(v => v.id);
-        const comments = await fetchYouTubeComments(videoIds, ytApiKey);
+        const comments = await fetchYouTubeComments(videos, ytApiKey);
         const quotes = extractQuotes(comments, "youtube");
         allQuotes.push(...quotes);
 
