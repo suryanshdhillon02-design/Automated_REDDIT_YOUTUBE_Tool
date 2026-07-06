@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-06T14:39:59.761Z",
+    "generatedAt": "2026-07-06T23:53:01.918Z",
     "cancerType": "lung",
     "sources": [
       {
         "name": "YouTube",
         "videosAnalyzed": 18,
-        "commentsAnalyzed": 487,
+        "commentsAnalyzed": 587,
         "quotesExtracted": 80
       },
       {
         "name": "Reddit",
-        "postsAnalyzed": 40,
-        "quotesExtracted": 24
+        "postsAnalyzed": 41,
+        "quotesExtracted": 25
       }
     ]
   },
@@ -26,7 +26,7 @@
       "channel": "Doctor ER",
       "videoTitle": "DOES CBD REALLY DO ANYTHING? Real Doctor Explains Everything You Need Know About Cannabidiol CBD Oil",
       "url": "https://www.youtube.com/watch?v=3GZa9X0-XQc",
-      "score": 790
+      "score": 792
     },
     {
       "text": "It boggles my mind that Americans put up with insurance companies overruling medical professionals on what tests or scans are required.",
@@ -48,7 +48,7 @@
       "channel": "Doctor ER",
       "videoTitle": "DOES CBD REALLY DO ANYTHING? Real Doctor Explains Everything You Need Know About Cannabidiol CBD Oil",
       "url": "https://www.youtube.com/watch?v=3GZa9X0-XQc",
-      "score": 496
+      "score": 497
     },
     {
       "text": "I’ve been doing chemo for a year now, it’s not easy but I’m making it work with Jesus by my side.",
@@ -281,7 +281,7 @@
       "channel": "Medical Secrets",
       "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
       "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
-      "score": 53
+      "score": 52
     },
     {
       "text": "A CAT scan where I to drink some nasty liquid and with IV contrast revealed a strangulated hernia.",
@@ -295,6 +295,17 @@
       "score": 46
     },
     {
+      "text": "I got the nerve damage from the cancer and yes I got more of it from treatment.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
+    },
+    {
       "text": "I'm postchemo 17 years, due to GI issues I still vomit very easily.",
       "theme": "physical",
       "dimension": "pain_point",
@@ -303,6 +314,17 @@
       "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
       "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
       "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 43
+    },
+    {
+      "text": "Following all Eric's advice, my life has improved, my breathing has improved, my energy has improved, my digestion, sleep..",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Eric Berg DC",
+      "videoTitle": "The 7 Causes of Shortness of Breath – Dr.Berg on Breathing Problems",
+      "url": "https://www.youtube.com/watch?v=AWOqHX04xFY",
       "score": 43
     },
     {
@@ -315,6 +337,28 @@
       "videoTitle": "DOES CBD REALLY DO ANYTHING? Real Doctor Explains Everything You Need Know About Cannabidiol CBD Oil",
       "url": "https://www.youtube.com/watch?v=3GZa9X0-XQc",
       "score": 42
+    },
+    {
+      "text": "It’s the growing fatigue and each time I get a simple cold or even a cut, takes so long to recover.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
+    },
+    {
+      "text": "I get sweats from the lump node involvement, menopause (got diagnosed right when diagnosed lol) and chemo sweat.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
     },
     {
       "text": "I tolerated it well just had some random nausea and slight headache, other than that I feel fine!",
@@ -381,39 +425,6 @@
       "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
       "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
       "score": 33
-    },
-    {
-      "text": "during my first treatment they told me to take the tablet for nausea even if I am not sick taking it according to them is to prevent me from becoming sick so I just followed while at the hospital.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 31
-    },
-    {
-      "text": "but it is not severe maybe I have only taken that tablet for nausea I think 4 times since my first treatment.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 31
-    },
-    {
-      "text": "I also cut my hair shorter already anticipating hair loss because of chemo and the nurse said usually it will start on the second week I do not know if second week after the first treatment or on the second treatment so I will know before the end of June if I will lose my hair.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 31
     },
     {
       "text": "I suffer with knee pain insomnia stress and anxiety I started using cbd hemp cigarettes it does help me after a day at work the pain subsidies my anxiety goes away it definitely works I feel more relax at night",
@@ -570,18 +581,7 @@
       "score": 15
     },
     {
-      "text": "I just had a CT scan and there are lesions on my lungs....I hope that CT doesn't give me lung cancer......",
-      "theme": "system",
-      "dimension": "desired_outcomes",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Medical Secrets",
-      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
-      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
-      "score": 13
-    },
-    {
-      "text": "I've had cancer twice and have had many CT scan in the last 8 years.",
+      "text": "I had a cardiac ct scan a few years ago, just to check… despite not having any of the markers of any problems.",
       "theme": "system",
       "dimension": "pain_point",
       "drugs": [],
@@ -589,18 +589,29 @@
       "channel": "Medical Secrets",
       "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
       "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
-      "score": 12
+      "score": 15
     },
     {
-      "text": "that is right during chemotherapy in the hospital I sow people they are drinking soda , chips a lot of process food providing by hospital I don’t get it,",
+      "text": "On the other hand my husband has had several cardiac CT scans.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 15
+    },
+    {
+      "text": "Our doctor recently retired and the new one wants him to do another cardiac Ct scan.",
       "theme": "system",
       "dimension": "pain_point",
       "drugs": [],
       "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 12
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 15
     },
     {
       "text": "My dad is 80 years old and diagnosed with liver cancer today.",
@@ -680,28 +691,6 @@
       "videoTitle": "Immunotherapy and the side effects",
       "url": "https://www.youtube.com/watch?v=CfKYcd8G0Cs",
       "score": 10
-    },
-    {
-      "text": "Thank you so much for this information I was thinking about Having CT Scan I won't be doing that now",
-      "theme": "system",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Medical Secrets",
-      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
-      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
-      "score": 9
-    },
-    {
-      "text": "I've had many malfunctions so have had MANY CT's as have my children.",
-      "theme": "worklife",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Medical Secrets",
-      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
-      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
-      "score": 9
     },
     {
       "text": "I just had another CT scan the cancer is now in my lungs and liver so now I'm at l level 4!",
@@ -792,17 +781,6 @@
       "score": 8
     },
     {
-      "text": "I believe Brenner (AJR) stated that 600,000 annual CT scans on children under 15 equates to 500 cancer deaths.",
-      "theme": "worklife",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Medical Secrets",
-      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
-      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
-      "score": 7
-    },
-    {
       "text": "Although CBD oil has never helped the pain in my hands, for what it has done for my knees I am a convert & a supporter.",
       "theme": "physical",
       "dimension": "pain_point",
@@ -836,6 +814,17 @@
       "score": 7
     },
     {
+      "text": "My right foot is numb, so far I fell 3 times, breaking 3 toes.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 2
+    },
+    {
       "text": "After 3 years of chemo and radiation treatments and faring fdirly well through them, i certainly did not have really serious side effects, chemo or radiation are no longer options.",
       "theme": "physical",
       "dimension": "pain_point",
@@ -866,6 +855,17 @@
       "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
       "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
       "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 6
+    },
+    {
+      "text": "And I always breathe very shallow into my chest, which is normal when you’re scared but chest breathing is something I do tend to in general",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Eric Berg DC",
+      "videoTitle": "The 7 Causes of Shortness of Breath – Dr.Berg on Breathing Problems",
+      "url": "https://www.youtube.com/watch?v=AWOqHX04xFY",
       "score": 6
     },
     {
@@ -905,11 +905,11 @@
   "themes": {
     "physical": {
       "label": "Physical symptoms & side effects",
-      "count": 34
+      "count": 36
     },
     "neuropathy": {
       "label": "Peripheral neuropathy",
-      "count": 1
+      "count": 3
     },
     "cognitive": {
       "label": "Chemo-brain / cognitive effects",
@@ -925,7 +925,7 @@
     },
     "system": {
       "label": "Healthcare system & care navigation",
-      "count": 36
+      "count": 32
     },
     "financial": {
       "label": "Financial & insurance burden",
@@ -933,11 +933,11 @@
     },
     "worklife": {
       "label": "Work, family & relationships",
-      "count": 6
+      "count": 5
     },
     "uncertainty": {
       "label": "Diagnosis, prognosis & uncertainty",
-      "count": 16
+      "count": 18
     }
   }
 }
