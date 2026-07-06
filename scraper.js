@@ -172,7 +172,8 @@ async function fetchYouTube(cancerType, maxVideos = 20, apiKey) {
         type: "video",
         order: "relevance",
         videoDuration: "medium",
-        maxResults: Math.min(maxVideos / queries.length, 50),
+        // Must be an integer 1-50; non-integers make the API 400.
+        maxResults: Math.min(Math.max(Math.ceil(maxVideos / queries.length), 1), 50),
         q: query,
         key: apiKey
       });
@@ -195,10 +196,13 @@ async function fetchYouTube(cancerType, maxVideos = 20, apiKey) {
         }
       }
     } catch (e) {
-      if (e.response?.data?.error?.errors?.[0]?.reason === "quotaExceeded") {
+      const reason = e.response?.data?.error?.errors?.[0]?.reason;
+      const apiMsg = e.response?.data?.error?.message || e.message;
+      if (reason === "quotaExceeded") {
         log("❌ YouTube API quota exceeded");
         break;
       }
+      log(`⚠️  YouTube search failed for "${query}": ${reason || ""} ${apiMsg}`);
     }
   }
 
