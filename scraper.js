@@ -468,9 +468,12 @@ async function main() {
   const filename = `patient_voices_${cancerType.replace(/\s+/g, "_")}_${dateStr}.json`;
   const filepath = path.join(dataDir, filename);
 
+  // Each source is already capped at 80 in extractQuotes(). Keep all quotes from
+  // every source here — an earlier slice(0,80) silently dropped all Reddit quotes
+  // on "all" runs because YouTube filled the first 80 slots.
   const output = {
     metadata,
-    quotes: allQuotes.slice(0, 80),
+    quotes: allQuotes,
     themes: Object.fromEntries(
       Object.entries(THEMES).map(([key, t]) => [
         key,
