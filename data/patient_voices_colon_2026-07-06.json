@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-06T14:40:21.156Z",
+    "generatedAt": "2026-07-06T23:53:23.549Z",
     "cancerType": "colon",
     "sources": [
       {
         "name": "YouTube",
-        "videosAnalyzed": 20,
-        "commentsAnalyzed": 477,
+        "videosAnalyzed": 19,
+        "commentsAnalyzed": 473,
         "quotesExtracted": 80
       },
       {
         "name": "Reddit",
-        "postsAnalyzed": 43,
-        "quotesExtracted": 39
+        "postsAnalyzed": 44,
+        "quotesExtracted": 38
       }
     ]
   },
@@ -207,6 +207,17 @@
       "score": 58
     },
     {
+      "text": "I got the nerve damage from the cancer and yes I got more of it from treatment.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
+    },
+    {
       "text": "I'm postchemo 17 years, due to GI issues I still vomit very easily.",
       "theme": "physical",
       "dimension": "pain_point",
@@ -216,6 +227,28 @@
       "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
       "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
       "score": 43
+    },
+    {
+      "text": "It’s the growing fatigue and each time I get a simple cold or even a cut, takes so long to recover.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
+    },
+    {
+      "text": "I get sweats from the lump node involvement, menopause (got diagnosed right when diagnosed lol) and chemo sweat.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
     },
     {
       "text": "The reaction to cold was difficult but I keep some padded gloves next to the fridge and ask for help going to the supermarket as I cannot put my hand in chiller cabinets or freezers.",
@@ -248,39 +281,6 @@
       "channel": "Survivor Jelena",
       "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
       "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
-      "score": 31
-    },
-    {
-      "text": "during my first treatment they told me to take the tablet for nausea even if I am not sick taking it according to them is to prevent me from becoming sick so I just followed while at the hospital.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 31
-    },
-    {
-      "text": "but it is not severe maybe I have only taken that tablet for nausea I think 4 times since my first treatment.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 31
-    },
-    {
-      "text": "I also cut my hair shorter already anticipating hair loss because of chemo and the nurse said usually it will start on the second week I do not know if second week after the first treatment or on the second treatment so I will know before the end of June if I will lose my hair.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
       "score": 31
     },
     {
@@ -415,17 +415,6 @@
       "channel": "Survivor Jelena",
       "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
       "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
-      "score": 12
-    },
-    {
-      "text": "that is right during chemotherapy in the hospital I sow people they are drinking soda , chips a lot of process food providing by hospital I don’t get it,",
-      "theme": "system",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
       "score": 12
     },
     {
@@ -673,6 +662,17 @@
       "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
       "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
       "score": 7
+    },
+    {
+      "text": "My right foot is numb, so far I fell 3 times, breaking 3 toes.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 2
     },
     {
       "text": "i was diagnosed with lower bowel cancer today and im waiting for my surgery, they will remove all my lower bowel and rectom, Im so afraid, i cant beleve it.",
@@ -923,11 +923,11 @@
   "themes": {
     "physical": {
       "label": "Physical symptoms & side effects",
-      "count": 45
+      "count": 42
     },
     "neuropathy": {
       "label": "Peripheral neuropathy",
-      "count": 8
+      "count": 10
     },
     "cognitive": {
       "label": "Chemo-brain / cognitive effects",
@@ -943,7 +943,7 @@
     },
     "system": {
       "label": "Healthcare system & care navigation",
-      "count": 36
+      "count": 35
     },
     "financial": {
       "label": "Financial & insurance burden",
