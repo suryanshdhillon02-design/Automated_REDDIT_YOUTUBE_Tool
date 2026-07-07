@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-07T00:00:45.922Z",
+    "generatedAt": "2026-07-07T00:25:07.819Z",
     "cancerType": "prostate",
     "sources": [
       {
@@ -659,6 +659,17 @@
       "score": 4
     },
     {
+      "text": "I'm glad she's not my doc because I swear I would have the biggest crush, my insurance would question my visit increase",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "This Is Not Covered - Dr. Ashley Froese",
+      "videoTitle": "Doctor Explains Your RISK of Cancer From Popular Peptides",
+      "url": "https://www.youtube.com/watch?v=M3TWSopJ8Pk",
+      "score": 9
+    },
+    {
       "text": "I've been referred to an Oncologist and after a consultation will begin Radiation treatment.",
       "theme": "system",
       "dimension": "pain_point",
@@ -914,17 +925,6 @@
     },
     {
       "text": "I turned my diet to low carb since as soon as chemo ended my appetite came back with a vengeance, especially wanting carbs.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Prostate Cancer Research Institute",
-      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
-      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
-      "score": 3
-    },
-    {
-      "text": "Well, sure but between that and the total fatigue, and I mean for the first year it was awful.",
       "theme": "physical",
       "dimension": "pain_point",
       "drugs": [],
@@ -1242,7 +1242,7 @@
   "themes": {
     "physical": {
       "label": "Physical symptoms & side effects",
-      "count": 30
+      "count": 29
     },
     "neuropathy": {
       "label": "Peripheral neuropathy",
@@ -1266,7 +1266,7 @@
     },
     "financial": {
       "label": "Financial & insurance burden",
-      "count": 2
+      "count": 3
     },
     "worklife": {
       "label": "Work, family & relationships",
