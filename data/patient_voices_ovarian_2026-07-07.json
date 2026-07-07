@@ -1,18 +1,18 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-07T00:25:35.772Z",
+    "generatedAt": "2026-07-07T12:18:05.188Z",
     "cancerType": "ovarian",
     "sources": [
       {
         "name": "YouTube",
         "videosAnalyzed": 15,
-        "commentsAnalyzed": 528,
-        "quotesExtracted": 71
+        "commentsAnalyzed": 428,
+        "quotesExtracted": 75
       },
       {
         "name": "Reddit",
         "postsAnalyzed": 43,
-        "quotesExtracted": 35
+        "quotesExtracted": 31
       }
     ]
   },
@@ -83,7 +83,7 @@
       "channel": "Dr. Stacy Sims Official",
       "videoTitle": "Tired, Stressed, or Foggy? These 5 Women’s Supplements Are Proven To Help",
       "url": "https://www.youtube.com/watch?v=V9R7fsID1i8",
-      "score": 208
+      "score": 209
     },
     {
       "text": "I have been delightfully surprised by the cognitive improvements I have been positively experiencing since resuming creatine.",
@@ -94,7 +94,7 @@
       "channel": "Dr. Stacy Sims Official",
       "videoTitle": "Tired, Stressed, or Foggy? These 5 Women’s Supplements Are Proven To Help",
       "url": "https://www.youtube.com/watch?v=V9R7fsID1i8",
-      "score": 208
+      "score": 209
     },
     {
       "text": "I pray for each and every one of you starting, during, and after your chemo treatments.",
@@ -119,28 +119,6 @@
       "score": 122
     },
     {
-      "text": "My South African trained Doctor suggested I try Curcumin as it is widely used for all stomach problems and inflammation.",
-      "theme": "system",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Michigan Foot Doctors",
-      "videoTitle": "Is Turmeric Actually Safe? 10 Serious Side Effects Revealed",
-      "url": "https://www.youtube.com/watch?v=MFUQAoW7s0s",
-      "score": 101
-    },
-    {
-      "text": "I took turmeric, the pain from inflammation was gone in two days and I was able to gently work my finger back to straight in just a couple of weeks.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Michigan Foot Doctors",
-      "videoTitle": "Is Turmeric Actually Safe? 10 Serious Side Effects Revealed",
-      "url": "https://www.youtube.com/watch?v=MFUQAoW7s0s",
-      "score": 96
-    },
-    {
       "text": "After doing hormonal blood test, the doctor just said I’m not going to be able to conceive a baby and got me on anticonceptional pills and some pill to lower testosterone (I can’t remember what exactly).",
       "theme": "system",
       "dimension": "pain_point",
@@ -152,15 +130,59 @@
       "score": 89
     },
     {
-      "text": "The doctor saw my arthritic hands and told me the arthritis would be worse in my wrist.",
-      "theme": "system",
+      "text": "I completed chemo and immunotherapy 2021 for small cell stage 4 lung cancer which for the past year is \"undetectible\".",
+      "theme": "uncertainty",
       "dimension": "pain_point",
       "drugs": [],
       "source": "youtube",
-      "channel": "Michigan Foot Doctors",
-      "videoTitle": "Is Turmeric Actually Safe? 10 Serious Side Effects Revealed",
-      "url": "https://www.youtube.com/watch?v=MFUQAoW7s0s",
-      "score": 75
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "I was given an anti nausea med I.V during the chemo and immunotherapy.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "Since I developed side effects from the immunotherapy it was stopped shortly after chemo ended.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "The conditions I developed include hypothyroidism, hypertension, hair loss, extremely dry skin, brittle nails, skin discolorations (reddish sunburn like chest and cheeks) extreme itching.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "While my ct scans have been favorable I am cognizant of the reality and possibility of recurrence.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
     },
     {
       "text": "Here after 5 days of my first chemo and I am feeling better than before I hope everyone stay safe and healthy",
@@ -205,6 +227,39 @@
       "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
       "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
       "score": 43
+    },
+    {
+      "text": "during my first treatment they told me to take the tablet for nausea even if I am not sick taking it according to them is to prevent me from becoming sick so I just followed while at the hospital.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 31
+    },
+    {
+      "text": "but it is not severe maybe I have only taken that tablet for nausea I think 4 times since my first treatment.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 31
+    },
+    {
+      "text": "I also cut my hair shorter already anticipating hair loss because of chemo and the nurse said usually it will start on the second week I do not know if second week after the first treatment or on the second treatment so I will know before the end of June if I will lose my hair.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 31
     },
     {
       "text": "I'm free from cancer year and half but my tingling in my hands and feet is still there.",
@@ -260,39 +315,6 @@
       "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
       "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
       "score": 20
-    },
-    {
-      "text": "My husband stage four esphogel stomach cancer, and he threw up everytime he got dosed.",
-      "theme": "worklife",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 20
-    },
-    {
-      "text": "For hours I thought he was vomiting up his tumor, which size of my fist.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 20
-    },
-    {
-      "text": "After 5 yrs my fatigue & low blood cell conditions started increasing until these side effects became intolerable.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Michigan Foot Doctors",
-      "videoTitle": "Is Turmeric Actually Safe? 10 Serious Side Effects Revealed",
-      "url": "https://www.youtube.com/watch?v=MFUQAoW7s0s",
-      "score": 19
     },
     {
       "text": "that is right during chemotherapy in the hospital I sow people they are drinking soda , chips a lot of process food providing by hospital I don’t get it,",
@@ -361,39 +383,6 @@
       "score": 11
     },
     {
-      "text": "I have been taking Turmeric with black pepper for 3 years because of nerve pain, lower back pain and my arthritis in my knees and hands.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Michigan Foot Doctors",
-      "videoTitle": "Is Turmeric Actually Safe? 10 Serious Side Effects Revealed",
-      "url": "https://www.youtube.com/watch?v=MFUQAoW7s0s",
-      "score": 11
-    },
-    {
-      "text": "The Ibuprofen worked for my back and nerve pain but did nothimg for my arthritis esp in my hands.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Michigan Foot Doctors",
-      "videoTitle": "Is Turmeric Actually Safe? 10 Serious Side Effects Revealed",
-      "url": "https://www.youtube.com/watch?v=MFUQAoW7s0s",
-      "score": 11
-    },
-    {
-      "text": "cindy i have noticed that you are not struggling with your hands anymore and i was wow she is right, i had not noticed that the pain had near enough gone.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Michigan Foot Doctors",
-      "videoTitle": "Is Turmeric Actually Safe? 10 Serious Side Effects Revealed",
-      "url": "https://www.youtube.com/watch?v=MFUQAoW7s0s",
-      "score": 11
-    },
-    {
       "text": "I just had another CT scan the cancer is now in my lungs and liver so now I'm at l level 4!",
       "theme": "system",
       "dimension": "pain_point",
@@ -427,6 +416,50 @@
       "score": 4
     },
     {
+      "text": "It went away but someone could explain that this could happen chemo did make me sick on third day after treatment they gave me lots of meds to make it stop but still the feeling of I am going to throw up doesn’t go away I was exhausted but couldn’t sleep.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
+      "text": "My long straight hair came back curly like I had a perm with grey in it.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
+      "text": "My boob filled up with fluid and my brain slowly came back and I have been cancer free 23yrs.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
+      "text": "I do have brain fog and neuropathy in my feet that won’t ever go away and I get migraines with auras which can be from chemotherapy.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
       "text": "I'm starting year 3 of treatment and its astonishing how nobody in the general population has ever even heard of chemo brain.",
       "theme": "cognitive",
       "dimension": "pain_point",
@@ -449,6 +482,17 @@
       "score": 3
     },
     {
+      "text": "I developed constipation and stomach cramping because I simply was not taking in enough water.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Stacy Sims Official",
+      "videoTitle": "Tired, Stressed, or Foggy? These 5 Women’s Supplements Are Proven To Help",
+      "url": "https://www.youtube.com/watch?v=V9R7fsID1i8",
+      "score": 8
+    },
+    {
       "text": "Chemo has almost killed my husband he's been SO sick he's lost 2 stone and been hospitalised on each occasion it really depends what chemo yr getting they are all different",
       "theme": "worklife",
       "dimension": "pain_point",
@@ -458,6 +502,17 @@
       "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
       "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
       "score": 7
+    },
+    {
+      "text": "My right foot is numb, so far I fell 3 times, breaking 3 toes.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 2
     },
     {
       "text": "Fatigue is one of the worst side effects I'm experiencing.",
@@ -504,7 +559,7 @@
       "score": 1
     },
     {
-      "text": "For recording ur drs appts (if ur dr is ok with being recorded)-I’m sure it would help with chemo brain, since the “pearls”, plus the convo is recorded!!",
+      "text": "I don't know whether this is chemo brain or not, but it seems as though people talk faster than I can hear, particularly in healthcare offices.",
       "theme": "cognitive",
       "dimension": "pain_point",
       "drugs": [],
@@ -515,7 +570,7 @@
       "score": 1
     },
     {
-      "text": "I don't know whether this is chemo brain or not, but it seems as though people talk faster than I can hear, particularly in healthcare offices.",
+      "text": "For recording ur drs appts (if ur dr is ok with being recorded)-I’m sure it would help with chemo brain, since the “pearls”, plus the convo is recorded!!",
       "theme": "cognitive",
       "dimension": "pain_point",
       "drugs": [],
@@ -570,20 +625,31 @@
       "score": 5
     },
     {
-      "text": "Tumeric makes my life wonderful.It helps me digestion,boost overall health.No side effect.Grind small amount of raw tumeric and soak in a hot water and drink on an empty stomach every morning .",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Michigan Foot Doctors",
-      "videoTitle": "Is Turmeric Actually Safe? 10 Serious Side Effects Revealed",
-      "url": "https://www.youtube.com/watch?v=MFUQAoW7s0s",
-      "score": 5
-    },
-    {
       "text": "I will always be on chemotherapy every second week I was a very fit lifting weights all my fitness is gone and I'm so depressed I have no motivation I don't know where to start I can't get to walking because the pain in my hip and leg are so bad I just don't know how to get back",
       "theme": "physical",
       "dimension": "logistical_friction",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 3
+    },
+    {
+      "text": "Dr Amy I have cancer I took it for 3 weeks after 3 weeks I started having burning my stomach my doctor told me stop taking it for 2 weeks then later I started for 6 days my stomach was burning again now I stomach again what going to happen now I will see my doctor in 2 weeks is there anither solution do they have another treatment so I could keep taking my chemo pills?",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 3
+    },
+    {
+      "text": "Did chemo in 2024 - I had extreme nausea for all 18 cycles.",
+      "theme": "physical",
+      "dimension": "pain_point",
       "drugs": [],
       "source": "youtube",
       "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
@@ -601,6 +667,17 @@
       "videoTitle": "What is Chemo Brain??? |  My Cancer Journey",
       "url": "https://www.youtube.com/watch?v=9g5RaMGHaaA",
       "score": 3
+    },
+    {
+      "text": "I was NEVER told that chemo can cause peripheral neuropathy.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 2
     },
     {
       "text": "I did 12 weeks of chemo once a week after doing so we had more scans done because we could not feel the tumor anymore after getting the results back from the scans.",
@@ -680,6 +757,17 @@
       "score": 1
     },
     {
+      "text": "Well, they told me the kind of cancer i'm getting i will lose my hair doctors old me",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 0
+    },
+    {
       "text": "I have an appointment at MD Anderson in Houston week after next.",
       "theme": "system",
       "dimension": "pain_point",
@@ -702,18 +790,7 @@
       "score": 0
     },
     {
-      "text": "I just got diagnosed with breast cancer and my surgery is next week.",
-      "theme": "uncertainty",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 0
-    },
-    {
-      "text": "My husband starts chemo next week I’m so hoping everything goes well and I really hope this helps and he beats cancer",
+      "text": "As her husband I massage her feet and hands, and back every night before bed.",
       "theme": "worklife",
       "dimension": "pain_point",
       "drugs": [],
@@ -737,39 +814,6 @@
     {
       "text": "Stage 4 nsclc met to my brain 10 years past diagnosis 7 years from my last surgery.",
       "theme": "uncertainty",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 0
-    },
-    {
-      "text": "Stage 4 appendix cancer here, finished my first infusion 2 weeks ago.",
-      "theme": "uncertainty",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 0
-    },
-    {
-      "text": "Nausea is my number 1 worst symptom, zofran makes me worse and I couldn’t eat at all.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
-      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
-      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
-      "score": 0
-    },
-    {
-      "text": "Weed is the only thing that makes me feel less shitty, gets rid of nausea and now I can eat.",
-      "theme": "physical",
       "dimension": "pain_point",
       "drugs": [],
       "source": "youtube",
@@ -823,69 +867,6 @@
       "subreddit": "ovariancancer",
       "postTitle": "Surgery unsuccessful",
       "url": "https://reddit.com/r/Ovariancancer/comments/1unx7je/surgery_unsuccessful/",
-      "score": 11,
-      "author": "[deleted]"
-    },
-    {
-      "text": "My diagnosis in January coincided with surgery to remove the mass (we didn't know it was cancer prior to surgery), which turned out to be a hysterectomy and BSO.",
-      "theme": "uncertainty",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "reddit",
-      "subreddit": "ovariancancer",
-      "postTitle": "Clear Scans but Stopping Chemo Early?",
-      "url": "https://reddit.com/r/Ovariancancer/comments/1ueyiim/clear_scans_but_stopping_chemo_early/",
-      "score": 11,
-      "author": "[deleted]"
-    },
-    {
-      "text": "I started chemo, paclitaxel and carboplatin, and after 3 rounds, when I went for a CT scan, got the good word that everything looked clear and no evidence of disease!",
-      "theme": "system",
-      "dimension": "pain_point",
-      "drugs": [
-        "paclitaxel",
-        "carboplatin"
-      ],
-      "source": "reddit",
-      "subreddit": "ovariancancer",
-      "postTitle": "Clear Scans but Stopping Chemo Early?",
-      "url": "https://reddit.com/r/Ovariancancer/comments/1ueyiim/clear_scans_but_stopping_chemo_early/",
-      "score": 11,
-      "author": "[deleted]"
-    },
-    {
-      "text": "Now, throughout the three rounds of chemo, I tolerated it very well, other than some minor nausea and fatigue, and in fact everyone commented on how well I was doing.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "reddit",
-      "subreddit": "ovariancancer",
-      "postTitle": "Clear Scans but Stopping Chemo Early?",
-      "url": "https://reddit.com/r/Ovariancancer/comments/1ueyiim/clear_scans_but_stopping_chemo_early/",
-      "score": 11,
-      "author": "[deleted]"
-    },
-    {
-      "text": "Because I was \"tolerating\" the chemo so well, my oncologist and my surgeon were both really pushing me to extend the treatment from 3 rounds to 6, so as to lessen the risk of recurrence (from 25% to 20%).",
-      "theme": "system",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "reddit",
-      "subreddit": "ovariancancer",
-      "postTitle": "Clear Scans but Stopping Chemo Early?",
-      "url": "https://reddit.com/r/Ovariancancer/comments/1ueyiim/clear_scans_but_stopping_chemo_early/",
-      "score": 11,
-      "author": "[deleted]"
-    },
-    {
-      "text": "So, I went in for the fourth round, left feeling like I normally did after each chemo round, and then, two days afterwards, was hit by the worst stomach pains, like 9 or 10 out of 10, that sent me to the ER, puking so bad from pain that I couldn't even keep water down for a whole day.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "reddit",
-      "subreddit": "ovariancancer",
-      "postTitle": "Clear Scans but Stopping Chemo Early?",
-      "url": "https://reddit.com/r/Ovariancancer/comments/1ueyiim/clear_scans_but_stopping_chemo_early/",
       "score": 11,
       "author": "[deleted]"
     },
@@ -1086,6 +1067,18 @@
       "author": "[deleted]"
     },
     {
+      "text": "But I won’t know for sure until the biopsy results come back.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ovariancancer",
+      "postTitle": "Salpingo Oophorectomy via Laparotomy Recovery?",
+      "url": "https://reddit.com/r/Ovariancancer/comments/1upk9hr/salpingo_oophorectomy_via_laparotomy_recovery/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
       "text": "For the past few weeks I've been dealing with constipation, bloating, and a hard round bulge in my lower abdomen.",
       "theme": "physical",
       "dimension": "pain_point",
@@ -1237,7 +1230,7 @@
     },
     "neuropathy": {
       "label": "Peripheral neuropathy",
-      "count": 2
+      "count": 3
     },
     "cognitive": {
       "label": "Chemo-brain / cognitive effects",
@@ -1253,7 +1246,7 @@
     },
     "system": {
       "label": "Healthcare system & care navigation",
-      "count": 22
+      "count": 21
     },
     "financial": {
       "label": "Financial & insurance burden",
@@ -1261,11 +1254,11 @@
     },
     "worklife": {
       "label": "Work, family & relationships",
-      "count": 6
+      "count": 5
     },
     "uncertainty": {
       "label": "Diagnosis, prognosis & uncertainty",
-      "count": 16
+      "count": 17
     }
   }
 }
