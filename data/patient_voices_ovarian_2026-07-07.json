@@ -1,13 +1,13 @@
 {
   "metadata": {
-    "generatedAt": "2026-07-07T00:01:11.740Z",
+    "generatedAt": "2026-07-07T00:25:35.772Z",
     "cancerType": "ovarian",
     "sources": [
       {
         "name": "YouTube",
         "videosAnalyzed": 15,
         "commentsAnalyzed": 528,
-        "quotesExtracted": 72
+        "quotesExtracted": 71
       },
       {
         "name": "Reddit",
@@ -601,17 +601,6 @@
       "videoTitle": "What is Chemo Brain??? |  My Cancer Journey",
       "url": "https://www.youtube.com/watch?v=9g5RaMGHaaA",
       "score": 3
-    },
-    {
-      "text": "Love your videos, and really liked this one - even took a screenshot of your whiteboard :) - I’ve been having menopausal issues for a while, and I’ve managed through trial and error to stop the fatigue, mood swings and dry skin by removing most carbs, keeping food clean/basic - less processed, and going back to food basics.",
-      "theme": "physical",
-      "dimension": "pain_point",
-      "drugs": [],
-      "source": "youtube",
-      "channel": "Dr. Eric Berg DC",
-      "videoTitle": "Hormones Out of Balance - This is Why! - Dr. Berg On Hormonal Imbalance",
-      "url": "https://www.youtube.com/watch?v=AqufWFYK_r8",
-      "score": 2
     },
     {
       "text": "I did 12 weeks of chemo once a week after doing so we had more scans done because we could not feel the tumor anymore after getting the results back from the scans.",
@@ -1244,7 +1233,7 @@
   "themes": {
     "physical": {
       "label": "Physical symptoms & side effects",
-      "count": 40
+      "count": 39
     },
     "neuropathy": {
       "label": "Peripheral neuropathy",
