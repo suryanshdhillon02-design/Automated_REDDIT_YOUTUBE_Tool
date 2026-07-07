@@ -254,16 +254,31 @@ async function fetchYouTubeComments(videos, apiKey, maxPerVideo = 100) {
 const ARCTIC_SHIFT_URL = "https://arctic-shift.photon-reddit.com/api/posts/search";
 const REDDIT_UA = "Mozilla/5.0 (compatible; PatientVoiceExtractor/1.0; +https://github.com/suryanshdhillon02-design/Automated_REDDIT_YOUTUBE_Tool)";
 
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+
 async function fetchFromArcticShift(sub, maxPosts) {
   const params = new URLSearchParams({
     subreddit: sub,
     limit: String(Math.min(maxPosts, 100)),
     sort: "desc"
   });
-  const res = await axios.get(`${ARCTIC_SHIFT_URL}?${params}`, {
-    headers: { "User-Agent": REDDIT_UA },
-    timeout: 30000
-  });
+  // Arctic Shift intermittently returns 422/5xx under rapid successive calls
+  // (e.g. the 5 CI jobs). Retry with backoff before giving up to the fallback.
+  let res;
+  let lastErr;
+  for (let attempt = 1; attempt <= 4; attempt++) {
+    try {
+      res = await axios.get(`${ARCTIC_SHIFT_URL}?${params}`, {
+        headers: { "User-Agent": REDDIT_UA },
+        timeout: 30000
+      });
+      break;
+    } catch (e) {
+      lastErr = e;
+      if (attempt < 4) await sleep(attempt * 1500);
+    }
+  }
+  if (!res) throw lastErr;
   const items = Array.isArray(res.data?.data) ? res.data.data : [];
   return items
     .filter(d => d.selftext && d.selftext.length > 20)
