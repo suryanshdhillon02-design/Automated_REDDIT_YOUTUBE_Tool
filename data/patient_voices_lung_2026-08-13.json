@@ -1,0 +1,1307 @@
+{
+  "metadata": {
+    "generatedAt": "2026-08-13T04:02:16.913Z",
+    "cancerType": "lung",
+    "sources": [
+      {
+        "name": "YouTube",
+        "videosAnalyzed": 21,
+        "commentsAnalyzed": 741,
+        "quotesExtracted": 80
+      },
+      {
+        "name": "Reddit",
+        "postsAnalyzed": 41,
+        "quotesExtracted": 30
+      }
+    ]
+  },
+  "quotes": [
+    {
+      "text": "It boggles my mind that Americans put up with insurance companies overruling medical professionals on what tests or scans are required.",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 603
+    },
+    {
+      "text": "I’ve been doing chemo for a year now, it’s not easy but I’m making it work with Jesus by my side.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 501
+    },
+    {
+      "text": "In 2007 I was diagnosed with stage 4 colorectal cancer metastasis to my liver stage 4.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 363
+    },
+    {
+      "text": "When I asked my doctor if I could get an ultrasound instead, she said yes but acted like I was overreacting.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 276
+    },
+    {
+      "text": "Five chemo/Keytruda treatments (with no serious side effects, no hair loss) shrunk my tumor dramatically.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "keytruda"
+      ],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 257
+    },
+    {
+      "text": "my Chemo Oncologist told me I had the best attitude of any of her patients.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 256
+    },
+    {
+      "text": "My cancer was \"missed\" multiple times by CT and then as soon as I got a biopsy suddenly those same scans clearly showed my cancer.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 247
+    },
+    {
+      "text": "I can't speak for others but sometimes peace of mind is worth the risk especially when the majority of the medical community tells you you're fine, it's in your head, it's just anxiety or you just need to lose weight for 2 years and then it turns out you were right.",
+      "theme": "emotional",
+      "dimension": "myths_mistakes",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 247
+    },
+    {
+      "text": "I pray for each and every one of you starting, during, and after your chemo treatments.",
+      "theme": null,
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 135
+    },
+    {
+      "text": "I took a year of intense chemo, it exhausted me, made me sick, but by God’s Grace, I survived and doing fine!",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 133
+    },
+    {
+      "text": "One of the reasons I had to leave decades of hospital systems nursing were too many CT scans.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 101
+    },
+    {
+      "text": "with that news is when we also found out it’d spread to her liver.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Sunnybrook Hospital",
+      "videoTitle": "Immunotherapy and the side effects",
+      "url": "https://www.youtube.com/watch?v=CfKYcd8G0Cs",
+      "score": 86
+    },
+    {
+      "text": "Here after 5 days of my first chemo and I am feeling better than before I hope everyone stay safe and healthy",
+      "theme": null,
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 72
+    },
+    {
+      "text": "I completed chemo and immunotherapy 2021 for small cell stage 4 lung cancer which for the past year is \"undetectible\".",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "I was given an anti nausea med I.V during the chemo and immunotherapy.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "Since I developed side effects from the immunotherapy it was stopped shortly after chemo ended.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "The conditions I developed include hypothyroidism, hypertension, hair loss, extremely dry skin, brittle nails, skin discolorations (reddish sunburn like chest and cheeks) extreme itching.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "While my ct scans have been favorable I am cognizant of the reality and possibility of recurrence.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "After 3 weeks of anticipation for my first chemo, it went well so far, no nausea or fatigue.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 60
+    },
+    {
+      "text": "I am currently doing chemo treatment fir a stage 3 cancer.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 58
+    },
+    {
+      "text": "at a recent dental appointment I told them idiots I wanted a teeth cleaning ONLY ; they said an x-ray was MANDATORY so I left",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 53
+    },
+    {
+      "text": "A CAT scan where I to drink some nasty liquid and with IV contrast revealed a strangulated hernia.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 46
+    },
+    {
+      "text": "I got the nerve damage from the cancer and yes I got more of it from treatment.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
+    },
+    {
+      "text": "I'm postchemo 17 years, due to GI issues I still vomit very easily.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 44
+    },
+    {
+      "text": "I tolerated it well just had some random nausea and slight headache, other than that I feel fine!",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer.Net",
+      "videoTitle": "Immunotherapy Side Effects for Cancer – An Overview for Patients",
+      "url": "https://www.youtube.com/watch?v=Xt2Xb37K5G8",
+      "score": 40
+    },
+    {
+      "text": "It’s the growing fatigue and each time I get a simple cold or even a cut, takes so long to recover.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
+    },
+    {
+      "text": "I get sweats from the lump node involvement, menopause (got diagnosed right when diagnosed lol) and chemo sweat.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
+    },
+    {
+      "text": "To get that diagnosed and since the surgery, I have probably had 20 CT Scans!",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 35
+    },
+    {
+      "text": "But since the surgery I have still have abdominal pain, they keep ordering ct scans.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 35
+    },
+    {
+      "text": "When my sister had a stroke, a CAT scan was unable to provide definitive evidence that she even had a stroke whereas the MRI revealed that she not only had experienced a recent stroke but had had 2 previous strokes.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 33
+    },
+    {
+      "text": "When I experienced neurological symptoms, the CAT scan wasn’t definitive, at one point interpreted as evidence of a tumor!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 33
+    },
+    {
+      "text": "A MRI revealed a number of brain bleeds—and was far more detailed imaging of my brain compared to the CAT scan",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 33
+    },
+    {
+      "text": "during my first treatment they told me to take the tablet for nausea even if I am not sick taking it according to them is to prevent me from becoming sick so I just followed while at the hospital.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 31
+    },
+    {
+      "text": "but it is not severe maybe I have only taken that tablet for nausea I think 4 times since my first treatment.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 31
+    },
+    {
+      "text": "I also cut my hair shorter already anticipating hair loss because of chemo and the nurse said usually it will start on the second week I do not know if second week after the first treatment or on the second treatment so I will know before the end of June if I will lose my hair.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 31
+    },
+    {
+      "text": "I'm free from cancer year and half but my tingling in my hands and feet is still there.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 23
+    },
+    {
+      "text": "I've had a few CT scans in my life and no doctor has ever even hinted at these risks!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 25
+    },
+    {
+      "text": "my pet scan in September 2025 showed no disease(colon cancer) only an ulcer left!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Sunnybrook Hospital",
+      "videoTitle": "Immunotherapy and the side effects",
+      "url": "https://www.youtube.com/watch?v=CfKYcd8G0Cs",
+      "score": 24
+    },
+    {
+      "text": "I had a CT scan just last week for an acute and painful gut problem.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 24
+    },
+    {
+      "text": "The scan revealed a moderately serious condition for which I was prescribed two “big gun” antibiotics.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 24
+    },
+    {
+      "text": "My follow-up appointment with my regular doctor is early next month.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 24
+    },
+    {
+      "text": "Chemotherapy didn’t work for the lung cancer, but immunotherapy has held the cancer back for two and a half years now but I still have cancer, I’m monitored by CT scans.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Sunnybrook Hospital",
+      "videoTitle": "Immunotherapy and the side effects",
+      "url": "https://www.youtube.com/watch?v=CfKYcd8G0Cs",
+      "score": 21
+    },
+    {
+      "text": "I’ve already had changes in taste, fatigue, weight loss, and severe constipation!",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 20
+    },
+    {
+      "text": "I know about CT scan causing that dangerous disease ...Thanks Doc!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 16
+    },
+    {
+      "text": "Doctors actually wanted me to get an extra 3 CT's which if I had not trusted my gut I would have gotten.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 16
+    },
+    {
+      "text": "My mom got diagnosed with stage 4 squamous non-small cell lung cancer that metastasized to her spine (bone marrow)..",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Research Institute",
+      "videoTitle": "Keeping Lung Cancer Under Control: Bob&#39;s Immunotherapy Story",
+      "url": "https://www.youtube.com/watch?v=PtVQ3gT3nOI",
+      "score": 15
+    },
+    {
+      "text": "I just had a CT scan and there are lesions on my lungs....I hope that CT doesn't give me lung cancer......",
+      "theme": "system",
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 13
+    },
+    {
+      "text": "I haven't had in infusion for over 4 months and I am in pain nearly every day at some level.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer.Net",
+      "videoTitle": "Immunotherapy Side Effects for Cancer – An Overview for Patients",
+      "url": "https://www.youtube.com/watch?v=Xt2Xb37K5G8",
+      "score": 12
+    },
+    {
+      "text": "Having said that I know cancer patients who HAD to work for insurance coverage.",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "The Patient Story",
+      "videoTitle": "For Months, I Knew Something Was Wrong  - Kristen | Small Cell Lung Cancer | The Patient Story",
+      "url": "https://www.youtube.com/watch?v=Zu3g0LxHnr4",
+      "score": 12
+    },
+    {
+      "text": "I've had cancer twice and have had many CT scan in the last 8 years.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 12
+    },
+    {
+      "text": "It knocked my WBC but soldiered on ,I had nausea but managable.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 12
+    },
+    {
+      "text": "that is right during chemotherapy in the hospital I sow people they are drinking soda , chips a lot of process food providing by hospital I don’t get it,",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 12
+    },
+    {
+      "text": "My dad is 80 years old and diagnosed with liver cancer today.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Sunnybrook Hospital",
+      "videoTitle": "Immunotherapy and the side effects",
+      "url": "https://www.youtube.com/watch?v=CfKYcd8G0Cs",
+      "score": 11
+    },
+    {
+      "text": "When I was in the hospital 20 years ago had Open Heart surgery when I was in the recovery room, a nurse came to my bedside upon waking up , she said with a light voice tone, be sure to eat your vegatables, Food is Medicine..",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 11
+    },
+    {
+      "text": "I am now on Opdivo which supposedly cost more per does than a new car ..",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [
+        "opdivo"
+      ],
+      "source": "youtube",
+      "channel": "Sunnybrook Hospital",
+      "videoTitle": "Immunotherapy and the side effects",
+      "url": "https://www.youtube.com/watch?v=CfKYcd8G0Cs",
+      "score": 10
+    },
+    {
+      "text": "Thank you so much for this information I was thinking about Having CT Scan I won't be doing that now",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 9
+    },
+    {
+      "text": "I just had another CT scan the cancer is now in my lungs and liver so now I'm at l level 4!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 9
+    },
+    {
+      "text": "Ever since Chemotherapy & Radiation treatments I am totally exhausted.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 9
+    },
+    {
+      "text": "I feel like her oncology isn't doing his job, due to the COVID 19, we were never showed the pet Scan, just a called from the doctor.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Research Institute",
+      "videoTitle": "Keeping Lung Cancer Under Control: Bob&#39;s Immunotherapy Story",
+      "url": "https://www.youtube.com/watch?v=PtVQ3gT3nOI",
+      "score": 8
+    },
+    {
+      "text": "In 3 months we will get the first scan to see what happens.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Research Institute",
+      "videoTitle": "Keeping Lung Cancer Under Control: Bob&#39;s Immunotherapy Story",
+      "url": "https://www.youtube.com/watch?v=PtVQ3gT3nOI",
+      "score": 8
+    },
+    {
+      "text": "Chemo has almost killed my husband he's been SO sick he's lost 2 stone and been hospitalised on each occasion it really depends what chemo yr getting they are all different",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
+      "text": "It went away but someone could explain that this could happen chemo did make me sick on third day after treatment they gave me lots of meds to make it stop but still the feeling of I am going to throw up doesn’t go away I was exhausted but couldn’t sleep.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
+      "text": "My long straight hair came back curly like I had a perm with grey in it.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
+      "text": "My boob filled up with fluid and my brain slowly came back and I have been cancer free 23yrs.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
+      "text": "I do have brain fog and neuropathy in my feet that won’t ever go away and I get migraines with auras which can be from chemotherapy.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
+      "text": "I believe Brenner (AJR) stated that 600,000 annual CT scans on children under 15 equates to 500 cancer deaths.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 7
+    },
+    {
+      "text": "I will say that since 2020, CT exams have increased every year at my hospital without dipping.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 7
+    },
+    {
+      "text": "Fatigue is one of the worst side effects I'm experiencing.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 7
+    },
+    {
+      "text": "My right foot is numb, so far I fell 3 times, breaking 3 toes.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 2
+    },
+    {
+      "text": "After 3 years of chemo and radiation treatments and faring fdirly well through them, i certainly did not have really serious side effects, chemo or radiation are no longer options.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Sunnybrook Hospital",
+      "videoTitle": "Immunotherapy and the side effects",
+      "url": "https://www.youtube.com/watch?v=CfKYcd8G0Cs",
+      "score": 6
+    },
+    {
+      "text": "I had lung cancer 3 times and it spread to the adrenal gland too on chemo and keytuna now.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Research Institute",
+      "videoTitle": "Keeping Lung Cancer Under Control: Bob&#39;s Immunotherapy Story",
+      "url": "https://www.youtube.com/watch?v=PtVQ3gT3nOI",
+      "score": 6
+    },
+    {
+      "text": "I have throat cancer,6 rounds of chemo,sadly without desired results,now had 4 doses of immunotherapy and tumour feels smaller,no big side effects apart from heavy aching of upper arms,does anybody else experience this pls?",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer.Net",
+      "videoTitle": "Immunotherapy Side Effects for Cancer – An Overview for Patients",
+      "url": "https://www.youtube.com/watch?v=Xt2Xb37K5G8",
+      "score": 5
+    },
+    {
+      "text": "They do not advise you whatsoever prior to a CT scan — at least not me.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 5
+    },
+    {
+      "text": "I live in the UK and was sent a letter inviting me for a CT scan to detect any early signs of lung cancer.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 5
+    },
+    {
+      "text": "At my first appointment the CT scanner had stopped working which was a bit of luck in a way as I did some research on radiation from CT scans and cancer.",
+      "theme": "system",
+      "dimension": "failed_attempts",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 5
+    },
+    {
+      "text": "I have since declined the scan and feel that was probably the right choice, although if it had been my GP who had ordered the scan after a proper consultation I may have viewed it differently.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 5
+    },
+    {
+      "text": "As a nurse and also a cancer patient I have to take patients to CT’s and mri’s sometimes.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 5
+    },
+    {
+      "text": "The only long term issue was numbness down the center of both my feet still today.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 0
+    },
+    {
+      "text": "I have had 2 sessions of chemo and immunotherapy, just had scans done and my doctor is very pleased with results.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Research Institute",
+      "videoTitle": "Keeping Lung Cancer Under Control: Bob&#39;s Immunotherapy Story",
+      "url": "https://www.youtube.com/watch?v=PtVQ3gT3nOI",
+      "score": 4
+    },
+    {
+      "text": "Due to my lung cancer I get a CT Scan 2x a yr min and a MRI yearly in order to check for spread from my Brain to my Pelvis",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 4
+    },
+    {
+      "text": "Diagnosed with NSCLC almost three weeks ago, after chest X-ray showed irregularities in the right lung and a large pleural effusion on my right side.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "55m, new adenocarcinoma diagnosis",
+      "url": "https://reddit.com/r/lungcancer/comments/1vevl42/55m_new_adenocarcinoma_diagnosis/",
+      "score": 14,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I don’t have much of an appetite but am trying to pack on calories and protein with 5-6 small meals and snacks per day.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "55m, new adenocarcinoma diagnosis",
+      "url": "https://reddit.com/r/lungcancer/comments/1vevl42/55m_new_adenocarcinoma_diagnosis/",
+      "score": 14,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I’m trying really hard not to focus on those numbers because I know everyone responds differently.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Grandpa just diagnosed with extensive-stage small cell lung cancer with femur metastasis. Looking for firsthand experiences, especially positive ones",
+      "url": "https://reddit.com/r/lungcancer/comments/1vl6blx/grandpa_just_diagnosed_with_extensivestage_small/",
+      "score": 7,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Somehow my husband and I got confused and just did the increased dose during the infusion period and neglected to continue with the maintenance dose.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Dexamethasone Daily",
+      "url": "https://reddit.com/r/lungcancer/comments/1vjmzxj/dexamethasone_daily/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My mom has stage 3 nsclc adenocarcinoma with her main tumor in her left lung.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Second primary lung cancer",
+      "url": "https://reddit.com/r/lungcancer/comments/1vk12ty/second_primary_lung_cancer/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "We were told it has spread to his femur, but thankfully his brain MRI was clear.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Grandpa just diagnosed with extensive-stage small cell lung cancer with femur metastasis. Looking for firsthand experiences, especially positive ones",
+      "url": "https://reddit.com/r/lungcancer/comments/1vl6blx/grandpa_just_diagnosed_with_extensivestage_small/",
+      "score": 7,
+      "author": "[deleted]"
+    },
+    {
+      "text": "After 2 oncology consults, 2 radiation oncologist consults, 2 thoracic surgeon consults, 1 interventional oncologist consult and 1 lung oncologist specialist consultation with UCLA; against my own heart I went in for lung surgery less than a week ago.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Update-surgery, what next",
+      "url": "https://reddit.com/r/lungcancer/comments/1vi78a7/updatesurgery_what_next/",
+      "score": 7,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Any how, today he called me and said he couldn’t urinate so he went to the ER and during the cat scan, they found pneumonia.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Father hospitalized with Pneumonia",
+      "url": "https://reddit.com/r/lungcancer/comments/1vk918s/father_hospitalized_with_pneumonia/",
+      "score": 6,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Pet scan showed that my dad’s lung cancer is 11,5cm and has multiple lymph nodes with bone meta on TH12 vertebrae and meta on Right adrenal gland, still waiting for Egfr results, I’m so stressed out and scared 😔",
+      "theme": "emotional",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Dad’s Lung cancer",
+      "url": "https://reddit.com/r/lungcancer/comments/1vdouxz/dads_lung_cancer/",
+      "score": 6,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My appetite continues to be an issue and my doctor prescribed this.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Megestrol",
+      "url": "https://reddit.com/r/lungcancer/comments/1vkomk2/megestrol/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I feel like my appetite and other symptoms have maybe suffered without this daily dose.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Dexamethasone Daily",
+      "url": "https://reddit.com/r/lungcancer/comments/1vjmzxj/dexamethasone_daily/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I am currently really dealing with insomnia, lack of appetite and overall nausea (I posted about this on another post and am going to reach out to my doc about maybe getting back on the olanzapine for a time.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Dexamethasone Daily",
+      "url": "https://reddit.com/r/lungcancer/comments/1vjmzxj/dexamethasone_daily/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Meanwhile, I am hoping I can just start taking the dex steroid again like I was supposed to for some benefits to appetite and other things, like energy levels.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Dexamethasone Daily",
+      "url": "https://reddit.com/r/lungcancer/comments/1vjmzxj/dexamethasone_daily/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I have stage 4 lung cancer with mets to the bones and on Monday, I will start targeted radiation therapy to 3 spots on my iliac crest and top of right femur.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Radiation Therapy Bone Mets",
+      "url": "https://reddit.com/r/lungcancer/comments/1vjeqrh/radiation_therapy_bone_mets/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I don't know if that's from the chemo or the hydro or both.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Radiation Therapy Bone Mets",
+      "url": "https://reddit.com/r/lungcancer/comments/1vjeqrh/radiation_therapy_bone_mets/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I also have been taking Compuzine for the nausea every 6 hours.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Radiation Therapy Bone Mets",
+      "url": "https://reddit.com/r/lungcancer/comments/1vjeqrh/radiation_therapy_bone_mets/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My father has stage 4 NSCLC and tumor is smaller each scan.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Keytruda success ?",
+      "url": "https://reddit.com/r/lungcancer/comments/1vgz6p6/keytruda_success/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I'm January my mom (67) was diagnosed with ES small cell with mets in her liver and one brain lesion.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Second line treatment - BiTE Therapy Tarlatamab",
+      "url": "https://reddit.com/r/lungcancer/comments/1vgodbz/second_line_treatment_bite_therapy_tarlatamab/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My father has stage IV lung adenocarcinoma with bone metastasis to the thoracic spine.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Delayed Keytrauda",
+      "url": "https://reddit.com/r/lungcancer/comments/1vgj8oi/delayed_keytrauda/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I know Keytruda isn't a miracle drug, but I'm scared that missing three infusions could reduce its effectiveness or allow the cancer to progress.",
+      "theme": "emotional",
+      "dimension": "pain_point",
+      "drugs": [
+        "keytruda"
+      ],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Delayed Keytrauda",
+      "url": "https://reddit.com/r/lungcancer/comments/1vgj8oi/delayed_keytrauda/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I feel like PET scan for a stage 4 cancer patient is integral for determining any progression ???",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Boo Health insurance",
+      "url": "https://reddit.com/r/lungcancer/comments/1vfvljb/boo_health_insurance/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My dad’s situation is different he was diagnosed with NSCLC in June 2026 a mass of a size of 8.5 5.5 \\* 4.5 however his pet showed no lesions else where in the body apart from pretracheal nodes on the same site in the right lung",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Weird response",
+      "url": "https://reddit.com/r/lungcancer/comments/1vlatva/weird_response/",
+      "score": 4,
+      "author": "[deleted]"
+    },
+    {
+      "text": "We did one round of chemo and had to stop because she was too weak to do another round so currently she is in palliative care.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Meds in palliative care",
+      "url": "https://reddit.com/r/lungcancer/comments/1vmv53g/meds_in_palliative_care/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "( any advice on how to fckn sleep with this pain I would appreciate it!)",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Positive Thoughts from Negative results.",
+      "url": "https://reddit.com/r/lungcancer/comments/1vmjq0t/positive_thoughts_from_negative_results/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I feel that FOR ME, having it removed instead of biopsy then removal was the best option.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Positive Thoughts from Negative results.",
+      "url": "https://reddit.com/r/lungcancer/comments/1vmjq0t/positive_thoughts_from_negative_results/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Have a friend who went the radiation route 1st, he just had another biopsy done, and we are waiting for his results ( I wish he would stop smoking cigarettes ( but I will NOT say anything)).",
+      "theme": "system",
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Positive Thoughts from Negative results.",
+      "url": "https://reddit.com/r/lungcancer/comments/1vmjq0t/positive_thoughts_from_negative_results/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "PET scan today to assess Hernexeos…minimal change in the lung but suddenly I have liver activity!!!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Liver activity on PETscan",
+      "url": "https://reddit.com/r/lungcancer/comments/1vm4y6d/liver_activity_on_petscan/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "we are stopping Hernexeos and going with Enhertu til we can get the biopsy results.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [
+        "enhertu"
+      ],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Liver activity on PETscan",
+      "url": "https://reddit.com/r/lungcancer/comments/1vm4y6d/liver_activity_on_petscan/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Hi my mum swallowed her saliva wrong during her sleep and the very next day had a persistent cough",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "Help with advice please",
+      "url": "https://reddit.com/r/lungcancer/comments/1vkwztd/help_with_advice_please/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My mom found out yesterday she has a lung nodule that is cancerous (per CT scan).",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "lungcancer",
+      "postTitle": "How to support parent",
+      "url": "https://reddit.com/r/lungcancer/comments/1vg8ifz/how_to_support_parent/",
+      "score": 1,
+      "author": "[deleted]"
+    }
+  ],
+  "themes": {
+    "physical": {
+      "label": "Physical symptoms & side effects",
+      "count": 32
+    },
+    "neuropathy": {
+      "label": "Peripheral neuropathy",
+      "count": 4
+    },
+    "cognitive": {
+      "label": "Chemo-brain / cognitive effects",
+      "count": 2
+    },
+    "logistical": {
+      "label": "Logistical barriers & access",
+      "count": 0
+    },
+    "emotional": {
+      "label": "Emotional & mental health",
+      "count": 3
+    },
+    "system": {
+      "label": "Healthcare system & care navigation",
+      "count": 40
+    },
+    "financial": {
+      "label": "Financial & insurance burden",
+      "count": 3
+    },
+    "worklife": {
+      "label": "Work, family & relationships",
+      "count": 4
+    },
+    "uncertainty": {
+      "label": "Diagnosis, prognosis & uncertainty",
+      "count": 20
+    }
+  }
+}
