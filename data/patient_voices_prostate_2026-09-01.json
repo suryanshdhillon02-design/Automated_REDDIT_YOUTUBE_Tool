@@ -1,0 +1,1440 @@
+{
+  "metadata": {
+    "generatedAt": "2026-09-01T07:02:12.674Z",
+    "cancerType": "prostate",
+    "sources": [
+      {
+        "name": "YouTube",
+        "videosAnalyzed": 21,
+        "commentsAnalyzed": 643,
+        "quotesExtracted": 80
+      },
+      {
+        "name": "Reddit",
+        "postsAnalyzed": 47,
+        "quotesExtracted": 39
+      }
+    ]
+  },
+  "quotes": [
+    {
+      "text": "It boggles my mind that Americans put up with insurance companies overruling medical professionals on what tests or scans are required.",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 603
+    },
+    {
+      "text": "When I asked my doctor if I could get an ultrasound instead, she said yes but acted like I was overreacting.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 277
+    },
+    {
+      "text": "My cancer was \"missed\" multiple times by CT and then as soon as I got a biopsy suddenly those same scans clearly showed my cancer.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 247
+    },
+    {
+      "text": "I can't speak for others but sometimes peace of mind is worth the risk especially when the majority of the medical community tells you you're fine, it's in your head, it's just anxiety or you just need to lose weight for 2 years and then it turns out you were right.",
+      "theme": "emotional",
+      "dimension": "myths_mistakes",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 247
+    },
+    {
+      "text": "He had continuous hot flashes, had the breast enlargement, testicles shrunk to nothing, cried at the drop of a hat ...he had radiation and we've had a couple good years, but now his numbers are going back up.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 159
+    },
+    {
+      "text": "I thought the hot flashes, extreme fatigue, diarrhea, chills were going to kill me.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 134
+    },
+    {
+      "text": "One of the reasons I had to leave decades of hospital systems nursing were too many CT scans.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 100
+    },
+    {
+      "text": "I'm on Lupron, and it's taken away any motivation that I have to do anything, let alone weight training.",
+      "theme": "emotional",
+      "dimension": "pain_point",
+      "drugs": [
+        "lupron"
+      ],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 62
+    },
+    {
+      "text": "at a recent dental appointment I told them idiots I wanted a teeth cleaning ONLY ; they said an x-ray was MANDATORY so I left",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 53
+    },
+    {
+      "text": "A CAT scan where I to drink some nasty liquid and with IV contrast revealed a strangulated hernia.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 45
+    },
+    {
+      "text": "While the above are testosterone related, I have noticed one fairly well known side effect; brain fog.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 35
+    },
+    {
+      "text": "To get that diagnosed and since the surgery, I have probably had 20 CT Scans!",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 34
+    },
+    {
+      "text": "But since the surgery I have still have abdominal pain, they keep ordering ct scans.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 34
+    },
+    {
+      "text": "When my sister had a stroke, a CAT scan was unable to provide definitive evidence that she even had a stroke whereas the MRI revealed that she not only had experienced a recent stroke but had had 2 previous strokes.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 33
+    },
+    {
+      "text": "When I experienced neurological symptoms, the CAT scan wasn’t definitive, at one point interpreted as evidence of a tumor!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 33
+    },
+    {
+      "text": "A MRI revealed a number of brain bleeds—and was far more detailed imaging of my brain compared to the CAT scan",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 33
+    },
+    {
+      "text": "I’ve been on Lupron for over 2 years and Abiraterone for over a year noticed the loss of muscle and of course the fatigue.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "lupron",
+        "abiraterone"
+      ],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 24
+    },
+    {
+      "text": "I've had a few CT scans in my life and no doctor has ever even hinted at these risks!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 24
+    },
+    {
+      "text": "I had a CT scan just last week for an acute and painful gut problem.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 24
+    },
+    {
+      "text": "The scan revealed a moderately serious condition for which I was prescribed two “big gun” antibiotics.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 24
+    },
+    {
+      "text": "My follow-up appointment with my regular doctor is early next month.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 24
+    },
+    {
+      "text": "Seven years later, I was diagnosed with radiation cystitis of the bladder.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Side Effects of Radiation Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=blQCmC2_ioM",
+      "score": 23
+    },
+    {
+      "text": "Only fatigue during treatment was when I got the flu for a few days near the end of my sessions.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 22
+    },
+    {
+      "text": "I'm better than most men in exercise commitment, but am human and worry about long term focus.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 16
+    },
+    {
+      "text": "My first blood test show “undetectable” PSA & testosterone after 4 mths.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 21
+    },
+    {
+      "text": "My initial PSA was 4.08 Gleason 8 and my PET/CAT Scan showed High Risk Cancer with NO METS!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 21
+    },
+    {
+      "text": "I’m 5 months into ADT, and have a small fan for hot flashes.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "adt"
+      ],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 21
+    },
+    {
+      "text": "I've been on hormones for six months since diagnosed with Stage 3a prostate cancer and now about to start 37 daily doses of radio to prostate plus pelvic lymph nodes.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Side Effects of Radiation Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=blQCmC2_ioM",
+      "score": 21
+    },
+    {
+      "text": "I am going to do 6 months of ADT and see what the results are.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [
+        "adt"
+      ],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 20
+    },
+    {
+      "text": "One thing that many videos from many doctors faile to give much information on is a radiation bladder burn, which happened to me.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Side Effects of Radiation Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=blQCmC2_ioM",
+      "score": 20
+    },
+    {
+      "text": "Back in 1991, at the age of 63, my father was diagnosed with prostate cancer and decided to go with the radiation option.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Radiation Therapy Side Effects for Prostate Cancer Patients | Michael Steinberg, MD",
+      "url": "https://www.youtube.com/watch?v=ul67Whc-kUA",
+      "score": 19
+    },
+    {
+      "text": "It had not metastasized, nevertheless, his doctor recommended an older radiation seeding procedure on the belief that it had produced good outcomes in situations like my father's.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Radiation Therapy Side Effects for Prostate Cancer Patients | Michael Steinberg, MD",
+      "url": "https://www.youtube.com/watch?v=ul67Whc-kUA",
+      "score": 19
+    },
+    {
+      "text": "My psa was 2.9 Gleason 9 , I had prostate surgery, I had a recurrence in two years pas .2 had radiation psa went to.001 , a year later my psa started to rise went to 6.9 , I’m now on hormone therapy psa .",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "PSA Recurrence: When Should You Treat? | Ask a Prostate Expert, Mark Scholz, MD",
+      "url": "https://www.youtube.com/watch?v=ygZNfQhrrYc",
+      "score": 16
+    },
+    {
+      "text": "Again, enormously helpful BUT I am angry that the importance of weight training was not emphasised to me.",
+      "theme": "emotional",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 15
+    },
+    {
+      "text": "With the onset of fatigue, I was unable to run my usual 6K every 3rd day.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 15
+    },
+    {
+      "text": "my insurance covered it, but they'd get another 3 grand and I'd end up even more tired, more muscle loss, more helpless, etc...",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 15
+    },
+    {
+      "text": "I know about CT scan causing that dangerous disease ...Thanks Doc!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 15
+    },
+    {
+      "text": "Doctors actually wanted me to get an extra 3 CT's which if I had not trusted my gut I would have gotten.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 15
+    },
+    {
+      "text": "I was diagnosed 5 years ago in January and decided on radiation and hormone treatment.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 14
+    },
+    {
+      "text": "I had diarrhoea after day 3,fatigue and wanting to pee all the time,especiallyat night .",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "North Central and East London Cancer Alliance",
+      "videoTitle": "What happens after your prostate radiotherapy treatment",
+      "url": "https://www.youtube.com/watch?v=gw3VglxoIiU",
+      "score": 14
+    },
+    {
+      "text": "I just had a CT scan and there are lesions on my lungs....I hope that CT doesn't give me lung cancer......",
+      "theme": "system",
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 13
+    },
+    {
+      "text": "My prostate was basically a tumor and spread throughout my pelvis and right hip.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 12
+    },
+    {
+      "text": "I had 20 external beam radiation treatments over the course of one month to prostate and bone, three weeks later I started chemotherapy docataxel 168 now going on my fourth treatment on the 23 of this month, psa from 155 to 1.2, the pain in my pelvis and hip is nothing like it was.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 12
+    },
+    {
+      "text": "No weight loss, no weight gain and my appetite is out of control and I have to watch it, I'm really hungry since starting chemo.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 12
+    },
+    {
+      "text": "I've had cancer twice and have had many CT scan in the last 8 years.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 12
+    },
+    {
+      "text": "I knew a ct scan must be cheaper and easier for insurance approval and I have known for years that ultrasound is severely underused and it makes no sense considering if doctors just learned how to use and read ultrasounds, so many things could be diagnosed in office in real time right at the appointment with your doctor!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 12
+    },
+    {
+      "text": "I have surmised the root of the reason why US is not utilized more, and why CT and x ray seem to ALWAYS be ordered even pre-emptively often before I've even met the doctor even when my injury was clearly a soft tissue injury and it should have been obvious MRI was going to be more useful than X-ray or ct- the reason is always insurance.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 12
+    },
+    {
+      "text": "I've even been told \"well we have to do the x rays/ct first before insurance will approve an mri\".",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 12
+    },
+    {
+      "text": "With this new info from you in hand, I don't care if the doc refuses to treat me or not I now know 100% I won't be going thru with their preemptive ct scan and x rays of my pelvis!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 12
+    },
+    {
+      "text": "The Hot Flashes are maybe 10-15 per day and during the night which disrupts my sleep greatly.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 10
+    },
+    {
+      "text": "I was a couple of weeks away from a radical prostatectomy as recommend by my urologist when I decided to consult a radiation oncologist for another opinion.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 10
+    },
+    {
+      "text": "I'll take Chemo but you can forget that hormone shit....",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Tips for Managing Hormone Therapy Side Effects | Ask a Prostate Cancer Expert, Mark Scholz, MD",
+      "url": "https://www.youtube.com/watch?v=IsAkAvIMB0A",
+      "score": 4
+    },
+    {
+      "text": "I'm 66 with G8, did 28 treatments of IMRT (last November) plus Lupron, 10 months in, my PSA two days ago was 0.01.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [
+        "lupron"
+      ],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 9
+    },
+    {
+      "text": "I would never do ADT again even if it worsens my prognosis.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [
+        "adt"
+      ],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 9
+    },
+    {
+      "text": "Instead, my neighbor had to take a 45-60 minute public transportation, taxi, or share ride to a kidney dialysis center in another city.",
+      "theme": "logistical",
+      "dimension": "logistical_friction",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medicare on Video - Medicare Specialist",
+      "videoTitle": "Medicare Advantage Is Changing in 2026 — And Not for the Better (What Seniors Must Know)",
+      "url": "https://www.youtube.com/watch?v=i8TMR2jWyCM",
+      "score": 4
+    },
+    {
+      "text": "I've been referred to an Oncologist and after a consultation will begin Radiation treatment.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Side Effects of Radiation Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=blQCmC2_ioM",
+      "score": 9
+    },
+    {
+      "text": "because of Dr Scholtz, when my husband was diagnosed this channel helped guide him to insist on a MRI and a guided guided biopsy, and the pet scan, he went to two urologist that did.",
+      "theme": "system",
+      "dimension": "counterintuitive_advice",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "PSA Recurrence: When Should You Treat? | Ask a Prostate Expert, Mark Scholz, MD",
+      "url": "https://www.youtube.com/watch?v=ygZNfQhrrYc",
+      "score": 9
+    },
+    {
+      "text": "It want to consider the guided Biopsy and MRI, my husband finally found the best hospital that has a wing for urology/oncology and he had all of the above testing, he is 76 and was diagnosed stage 4 but with the great oncologist and the right hormones and radiation he is doing FANTASTIC….",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "PSA Recurrence: When Should You Treat? | Ask a Prostate Expert, Mark Scholz, MD",
+      "url": "https://www.youtube.com/watch?v=ygZNfQhrrYc",
+      "score": 9
+    },
+    {
+      "text": "I opted for Brachy Therapy and IMRT with no ADT, my PSA was 5.8 now it's at 0.827.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [
+        "adt"
+      ],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 8
+    },
+    {
+      "text": "I did not want to face the side effects associated with ADT.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "adt"
+      ],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 8
+    },
+    {
+      "text": "Yes he found G2 Gleason 7 cancer which needs attention, but I'm still sore from that jackhammer biopsy and sometimes sleep with an icepack.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Nicholas Zaorsky",
+      "videoTitle": "Radiation Therapy Side Effects for Prostate Cancer: What Actually Happens",
+      "url": "https://www.youtube.com/watch?v=WRpZWHEqrYA",
+      "score": 3
+    },
+    {
+      "text": "I was diagnosed with prostate cancer, I have had hormone therapy and SBRT radiation therapy.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "David Kornguth, M.D.",
+      "videoTitle": "Hormone Therapy for Prostate Cancer - What sort of side effects can I expect.",
+      "url": "https://www.youtube.com/watch?v=mj8F8nGEHQw",
+      "score": 7
+    },
+    {
+      "text": "Because exercise is a part of my daily routine I have mitigated the side effects of hormone therapy and radiation therapy.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "David Kornguth, M.D.",
+      "videoTitle": "Hormone Therapy for Prostate Cancer - What sort of side effects can I expect.",
+      "url": "https://www.youtube.com/watch?v=mj8F8nGEHQw",
+      "score": 7
+    },
+    {
+      "text": "I believe Brenner (AJR) stated that 600,000 annual CT scans on children under 15 equates to 500 cancer deaths.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 7
+    },
+    {
+      "text": "I did radiation for 20 sessions, I was diagnosed with unfavorable intermediate prostate cancer , PSA as high as 14.1.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "PSA Recurrence: When Should You Treat? | Ask a Prostate Expert, Mark Scholz, MD",
+      "url": "https://www.youtube.com/watch?v=ygZNfQhrrYc",
+      "score": 7
+    },
+    {
+      "text": "Just had a pelvic CT scan, waiting on the results but what I'm seeing on this video and others this scan is useless.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "PSA Recurrence: When Should You Treat? | Ask a Prostate Expert, Mark Scholz, MD",
+      "url": "https://www.youtube.com/watch?v=ygZNfQhrrYc",
+      "score": 7
+    },
+    {
+      "text": "Also Im schedule for a skeleton scan two weeks from the pelvic scan, again another useless procedure.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "PSA Recurrence: When Should You Treat? | Ask a Prostate Expert, Mark Scholz, MD",
+      "url": "https://www.youtube.com/watch?v=ygZNfQhrrYc",
+      "score": 7
+    },
+    {
+      "text": "As with many here, neither my urologist or radiation oncologist talked about fatigue and the importance of exercise/weight training.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 6
+    },
+    {
+      "text": "Sir kindly guide me about the new term insurance plan from Aditya Birla capital which is the income surksha plan...8 want to buy a term plan but confused between the max life and Aditya Birla capital income surksha plan",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "insurance seva",
+      "videoTitle": "Avoiding Mistakes: What to Do if You Forgot to Declare Pre-existing diseases in Health Insurance",
+      "url": "https://www.youtube.com/watch?v=Fbu74CPNbeU",
+      "score": 1
+    },
+    {
+      "text": "After 3 decades, the best they got is 40-45 days of Monday through Friday radiation, for persistent biochemical reoccurrence PSA which has significantly reduced my dea husband's strength, quality of life that has had a direct impact on his dignity.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Radiation Therapy Side Effects for Prostate Cancer Patients | Michael Steinberg, MD",
+      "url": "https://www.youtube.com/watch?v=ul67Whc-kUA",
+      "score": 6
+    },
+    {
+      "text": "My husband never touched a cigarette, was healthy and vibrant following his RP with clean margins, and had now after 5 years had rising PSA and has been rushed into this 46 treatment radiation protocol that is 3 decades old.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Radiation Therapy Side Effects for Prostate Cancer Patients | Michael Steinberg, MD",
+      "url": "https://www.youtube.com/watch?v=ul67Whc-kUA",
+      "score": 6
+    },
+    {
+      "text": "What about focus therapy , I keep hearing more about it ?",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 0
+    },
+    {
+      "text": "Should I jump into radiation therapy and hormone therapy right away or should I watch my PSA level and if PSA level goes up again then reconsider radiation and hormone therapy.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "PSA Recurrence: When Should You Treat? | Ask a Prostate Expert, Mark Scholz, MD",
+      "url": "https://www.youtube.com/watch?v=ygZNfQhrrYc",
+      "score": 5
+    },
+    {
+      "text": "I was on hormone shots on elegard for 6 months and the first 3 months wasn't bad the last 3 months I had some mood swings never any hot flashes and didn't really feel that much of fatigue however I was always someone who worked out and right when I started the shots my gym closed so it took me four months to get to a new gym.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 4
+    },
+    {
+      "text": "I hate this i been on lupron shot for 4 months and its destroying my relationship both mentally and intimidately.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [
+        "lupron"
+      ],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 4
+    },
+    {
+      "text": "I have prostate cancer stage 3 with radiation therapy all this has affected my life miserablely",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Reducing Side Effects of Hormone Therapy for Prostate Cancer | Prostate Cancer Staging Guide",
+      "url": "https://www.youtube.com/watch?v=efza9vq-cg8",
+      "score": 4
+    },
+    {
+      "text": "I'm 67 and have been battling Advanced prostate Cancer Gleason 8 (spread to Lymph nodes) since Feb 2025.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 4
+    },
+    {
+      "text": "My side effects have been Hot Flashes mostly during the night, more frequent urination, minor leg/foot edema, lost most body hair and no sex drive.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 4
+    },
+    {
+      "text": "I also had ADT for six months and had the usual side effects plus a painfully infected tendon below my knee and then a rash over my chest and arms.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "adt"
+      ],
+      "source": "youtube",
+      "channel": "Prostate Cancer Research Institute",
+      "videoTitle": "Hormone Therapy &amp; Side Effects For High-Risk (Gleason 8) #ProstateCancer | Mark Scholz, MD #PCRI",
+      "url": "https://www.youtube.com/watch?v=5IgfJnYqPkA",
+      "score": 4
+    },
+    {
+      "text": "They do not advise you whatsoever prior to a CT scan — at least not me.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Medical Secrets",
+      "videoTitle": "The cancer risk of CAT scans (it&#39;s higher than we thought)",
+      "url": "https://www.youtube.com/watch?v=8aXPqwreCXw",
+      "score": 4
+    },
+    {
+      "text": "I’ve been reading this sub for the last 12 months and I thought I would add my prostate cancer, adt therapy, radiation therapy story in the hope it can help someone who was recently diagnosed.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [
+        "adt"
+      ],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "My story so far",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0gguk/my_story_so_far/",
+      "score": 43,
+      "author": "[deleted]"
+    },
+    {
+      "text": "After my urologist performed a biopsy, he found that the cancer had progressed past the prostate to the membranous urethra.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "My story so far",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0gguk/my_story_so_far/",
+      "score": 43,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I’m almost through it, my psa has been negligible for mths and I will not be continuing adt therapy on the recommendation of my oncologist given the debilitating side effects.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "adt"
+      ],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "My story so far",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0gguk/my_story_so_far/",
+      "score": 43,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Other than that, I have zero libido, erectile disfunction, brain fog, fatigue, less confidence, and no ambition.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "ADT Challenges",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w1ttf8/adt_challenges/",
+      "score": 17,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My understanding: since BCR/recurrence is almost same , but surgery-induced erectile dysfunction is significantly more common than radiotherapy, shouldn't younger patients choose radiation therapy?",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Why does medical guideline  recommend surgery , not radiation for patients under 65 years of age for localized prostate cancer?",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0csza/why_does_medical_guideline_recommend_surgery_not/",
+      "score": 14,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I asked if she could at least give me a cost estimate of what the 2nd reading of the slides might be and she told me to contact patient billing.",
+      "theme": "logistical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "So, I looked them up on the website, and I contacted patient billing.",
+      "theme": "logistical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My dad 60M, got diagnosed with prostate cancer in February 2026, Gleason score is 5+5, PSMA pet scan show metastasis to bone regions, with more reaction in femur.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "PLEASE HELP, PSA jumped from 126 to 287",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0kyre/please_help_psa_jumped_from_126_to_287/",
+      "score": 11,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I was seeing a Urologist at Kelsey Seybold and he ordered a PSMA PET scan.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "TL;DR - MD Anderson is not helpful with insurance authorizations, and their new patient intake procedures suck really bad in my experience.",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I contacted MD Anderson and said I wanted to schedule an appointment.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "They sent me a link to register as a new patient in their mychart application and upload my DL and insurance card.",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Later I got a call back from a person in intake who said before they would see me they would want to do a 2nd reading of my biopsy slides and if my insurance didn't cover it I was going to be financially responsible.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I asked them if they could contact my insurance and see if it was going to be a covered procedure.",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "The lady got snippy at that point and told me that I would have to contact my insurance on my own.",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I asked how many slides would be in a normal prostate biopsy with 13 samples, and she couldn't tell me.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "The next day I got a message saying my cost estimate request was canceled because I did not have an appointment scheduled.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Then I got a message saying that my referral had been canceled.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I called the MD Anderson intake nurse listed in MyChart, and she said, \"Yes, it has been canceled, but I don't know why.\" She was kind and reopened my referral and now i have been told they won't see me unless I've had a colonoscopy in the past 3 years.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "MD Anderson - Admission Process",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0qp5y/md_anderson_admission_process/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "So my dad (73 years old) was diagnosed with prostate cancer, they treated him with chemo meds and then cleared him.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Prostate Cancer Metastasized Intestines",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w24wi9/prostate_cancer_metastasized_intestines/",
+      "score": 7,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Should I wait for biopsy results or try to find a new provider.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Does it always take so long",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w1ok2q/does_it_always_take_so_long/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "For the last 3-4 weeks, I have had very poor appetite and have lost 7-8 pounds.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Orgovyx side effects",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w147kq/orgovyx_side_effects/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My dad is 64 and has just been diagnosed with **prostate adenocarcinoma** after biopsy.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Dad, 64, newly diagnosed Gleason 9",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0i6dn/dad_64_newly_diagnosed_gleason_9/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "When asked that should I look for one time treatment for my life time, the doctor said that at least, there is 20% recurring in 5 years, because PSMA PET has limitation.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Radiation or RALP for my case",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0ez5g/radiation_or_ralp_for_my_case/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "If the cancer is truly contained (without micro metastasis), surgery might be a good choice; if there is micro metastasis, radiation might be better, because VMAT will cover it, at the same time, I will take ADT for 6 months.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [
+        "adt"
+      ],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Radiation or RALP for my case",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0ez5g/radiation_or_ralp_for_my_case/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I’m changing health insurance (going from COBRA to private insurance) and Orgovyx no longer covered.",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [
+        "orgovyx"
+      ],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Orgovyx from Canadian Pharmacy?",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1vzz3bk/orgovyx_from_canadian_pharmacy/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I'm 52 and recently had an MRI-fusion transperineal biopsy after a PI-RADS 5 lesion was found.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Well, I guess I just joined the club - 52, Gleason 3+4 / GG2. Surgery or surveillance?",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w3t8ru/well_i_guess_i_just_joined_the_club_52_gleason_34/",
+      "score": 4,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I'm a candidate for bilateral nerve-sparing surgery at Yale's Smilow Cancer hospital.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Close to decision time. RALP or Radiation",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w035ji/close_to_decision_time_ralp_or_radiation/",
+      "score": 4,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Going through his blood work, I saw that his latest PSA was 3.63.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "78 year old's PSA - 3.63",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w3afwx/78_year_olds_psa_363/",
+      "score": 3,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Now I was expecting a referral for MRI but it was pants and undies down - check the tackle then bend over and breathe in.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Referral yesterday",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1vzxu1k/referral_yesterday/",
+      "score": 3,
+      "author": "[deleted]"
+    },
+    {
+      "text": "The medication is arriving today, and I just made an appointment with urologist for the initial demonstration, but I'm having my doubts.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "I'm about to start TriMix, maybe",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1vzwhz2/im_about_to_start_trimix_maybe/",
+      "score": 3,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My uncle was just diagnosed with prostate cancer and is going to start treatment with a Lupron shot every 6 months.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [
+        "lupron"
+      ],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Uncle diagnosed- question about treatment",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w41z4m/uncle_diagnosed_question_about_treatment/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Wondering if I should go ahead and do blood work again.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Test results",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w3xr9x/test_results/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I went back and looked at last years blood work and had a 4 PSA and they never even mentioned which I now find odd.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Test results",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w3xr9x/test_results/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "PSA 4.87 (this was a decent jump from my score last year, which drove doctor to recommend MRI)",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "5 Days Post RALPH Surgery",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w3tvqw/5_days_post_ralph_surgery/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I see my doctor tomorrow but to me a complete removal of the prostate makes a lot of sense compared with radiation.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Newly diagnosed",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w3nmp9/newly_diagnosed/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I check in at the desk, then go to another waiting room, then someone asks if my bladder feels full enough, then they take me back to the lead vault with the SBRT machine and do their thing.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Radiation Safety Protocols",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w3lrda/radiation_safety_protocols/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Unfortunately, I do not know the exact results but whatever was on the CT resulted in him being sent for a PSA test.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Dad (73) just got his PSA results; looking for help?",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w3ln51/dad_73_just_got_his_psa_results_looking_for_help/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My post RALP PSA numbers are slowly rising and I am pretty sure at some point I’ll be getting salvage Radiation and potentially ADT/Orgo.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [
+        "adt"
+      ],
+      "source": "reddit",
+      "subreddit": "ProstateCancer",
+      "postTitle": "Curious about your BCR and PSA time and rate of increase.",
+      "url": "https://reddit.com/r/ProstateCancer/comments/1w0frkb/curious_about_your_bcr_and_psa_time_and_rate_of/",
+      "score": 1,
+      "author": "[deleted]"
+    }
+  ],
+  "themes": {
+    "physical": {
+      "label": "Physical symptoms & side effects",
+      "count": 22
+    },
+    "neuropathy": {
+      "label": "Peripheral neuropathy",
+      "count": 0
+    },
+    "cognitive": {
+      "label": "Chemo-brain / cognitive effects",
+      "count": 5
+    },
+    "logistical": {
+      "label": "Logistical barriers & access",
+      "count": 3
+    },
+    "emotional": {
+      "label": "Emotional & mental health",
+      "count": 3
+    },
+    "system": {
+      "label": "Healthcare system & care navigation",
+      "count": 49
+    },
+    "financial": {
+      "label": "Financial & insurance burden",
+      "count": 8
+    },
+    "worklife": {
+      "label": "Work, family & relationships",
+      "count": 7
+    },
+    "uncertainty": {
+      "label": "Diagnosis, prognosis & uncertainty",
+      "count": 22
+    }
+  }
+}
