@@ -1,0 +1,1287 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-04T07:36:48.162Z",
+    "cancerType": "colon",
+    "sources": [
+      {
+        "name": "YouTube",
+        "videosAnalyzed": 19,
+        "commentsAnalyzed": 725,
+        "quotesExtracted": 80
+      },
+      {
+        "name": "Reddit",
+        "postsAnalyzed": 34,
+        "quotesExtracted": 28
+      }
+    ]
+  },
+  "quotes": [
+    {
+      "text": "I had stage 4 Colon cancer, that spread to my spine, pelvic and hip,with 6 months to live.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 626
+    },
+    {
+      "text": "Used fenbendazole , it's been 2 years and my last 3 scan's show no cancer.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 626
+    },
+    {
+      "text": "I’ve been doing chemo for a year now, it’s not easy but I’m making it work with Jesus by my side.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 518
+    },
+    {
+      "text": "In 2007 I was diagnosed with stage 4 colorectal cancer metastasis to my liver stage 4.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 377
+    },
+    {
+      "text": "I did a PET scan and the turmor had shrank from 3.7 centimeters to 1 centimeter and it was very small and thin.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 327
+    },
+    {
+      "text": "I tried ivermectin 12mg daily on empty stomach for 8 weeks before having a biopsy and the majority of my prostate cancer had dissappeared",
+      "theme": "system",
+      "dimension": "failed_attempts",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 327
+    },
+    {
+      "text": "Five chemo/Keytruda treatments (with no serious side effects, no hair loss) shrunk my tumor dramatically.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "keytruda"
+      ],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 281
+    },
+    {
+      "text": "I get a tumor marker test (checks cancer tumor count) every 90 days.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 273
+    },
+    {
+      "text": "my Chemo Oncologist told me I had the best attitude of any of her patients.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 260
+    },
+    {
+      "text": "I am a stage 4 prostate cancer metastatic to the spine .",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 185
+    },
+    {
+      "text": "I took a year of intense chemo, it exhausted me, made me sick, but by God’s Grace, I survived and doing fine!",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 160
+    },
+    {
+      "text": "I pray for each and every one of you starting, during, and after your chemo treatments.",
+      "theme": null,
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 138
+    },
+    {
+      "text": "I was diagnosed with bladder cancer after a catscan in the ER very sick and hemreging blood started tacking Ivermectin after a while started keto diet and berberin, soursop, turmeric,vitamin D3 ect.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 122
+    },
+    {
+      "text": "Once I am running clear I stop drinking the prep and switch to water, otherwise I will still have diarrhea in the car on the way to the procedure.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Mark Cooper, MD",
+      "videoTitle": "Can&#39;t Handle Colonoscopy Prep? WATCH THIS for Advice/Tips",
+      "url": "https://www.youtube.com/watch?v=uJX44uYqMws",
+      "score": 105
+    },
+    {
+      "text": "Here after 5 days of my first chemo and I am feeling better than before I hope everyone stay safe and healthy",
+      "theme": null,
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 79
+    },
+    {
+      "text": "I’ve had nausea once or twice and my knees hurt my first week.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Marina Blackford",
+      "videoTitle": "Managing Chemo Fatigue Effectively With THESE Tips",
+      "url": "https://www.youtube.com/watch?v=TOPCojE4W64",
+      "score": 79
+    },
+    {
+      "text": "I completed chemo and immunotherapy 2021 for small cell stage 4 lung cancer which for the past year is \"undetectible\".",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "I was given an anti nausea med I.V during the chemo and immunotherapy.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "Since I developed side effects from the immunotherapy it was stopped shortly after chemo ended.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "The conditions I developed include hypothyroidism, hypertension, hair loss, extremely dry skin, brittle nails, skin discolorations (reddish sunburn like chest and cheeks) extreme itching.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "While my ct scans have been favorable I am cognizant of the reality and possibility of recurrence.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 71
+    },
+    {
+      "text": "I was diagnosed with stage 3 esophageal cancer poorly differentiated adenocarcinoma with spread to adjacent lymph node.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 70
+    },
+    {
+      "text": "I just had a PET scan that shows thickening of the esophageal wall, but doesn’t measure a tumor.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 70
+    },
+    {
+      "text": "After 3 weeks of anticipation for my first chemo, it went well so far, no nausea or fatigue.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 62
+    },
+    {
+      "text": "I am currently doing chemo treatment fir a stage 3 cancer.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 58
+    },
+    {
+      "text": "My husband was diagnosed with stage 4 HCC liver cancer that spread to his lungs & lymph nodes.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 58
+    },
+    {
+      "text": "I started chemo today and I woke up at 4:30 in a panic.",
+      "theme": "emotional",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Marina Blackford",
+      "videoTitle": "Managing Chemo Fatigue Effectively With THESE Tips",
+      "url": "https://www.youtube.com/watch?v=TOPCojE4W64",
+      "score": 56
+    },
+    {
+      "text": "I got the nerve damage from the cancer and yes I got more of it from treatment.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
+    },
+    {
+      "text": "I'm postchemo 17 years, due to GI issues I still vomit very easily.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 44
+    },
+    {
+      "text": "My husband is having chemo he has terminal lung cancer Your such a beautiful woman let’s all encourage eachother who are fighting cancer … ❤❤❤❤❤❤❤❤❤❤❤❤❤ 😢",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Marina Blackford",
+      "videoTitle": "Managing Chemo Fatigue Effectively With THESE Tips",
+      "url": "https://www.youtube.com/watch?v=TOPCojE4W64",
+      "score": 43
+    },
+    {
+      "text": "It’s the growing fatigue and each time I get a simple cold or even a cut, takes so long to recover.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
+    },
+    {
+      "text": "I get sweats from the lump node involvement, menopause (got diagnosed right when diagnosed lol) and chemo sweat.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 40
+    },
+    {
+      "text": "I'm on folfoxiri, your two plus ironotecan to combat my stage 4 multiple masses in my liver in hopes to reduce them for surgery.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 32
+    },
+    {
+      "text": "On zofran for nausea, ginger drops, and I hope to stay active.",
+      "theme": "physical",
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 32
+    },
+    {
+      "text": "The reaction to cold was difficult but I keep some padded gloves next to the fridge and ask for help going to the supermarket as I cannot put my hand in chiller cabinets or freezers.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 27
+    },
+    {
+      "text": "during my first treatment they told me to take the tablet for nausea even if I am not sick taking it according to them is to prevent me from becoming sick so I just followed while at the hospital.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 31
+    },
+    {
+      "text": "but it is not severe maybe I have only taken that tablet for nausea I think 4 times since my first treatment.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 31
+    },
+    {
+      "text": "I also cut my hair shorter already anticipating hair loss because of chemo and the nurse said usually it will start on the second week I do not know if second week after the first treatment or on the second treatment so I will know before the end of June if I will lose my hair.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 31
+    },
+    {
+      "text": "‼️ UPDATE ‼️I have Chemotherapy on January 9th [ONLY UNDERGOING ON RADIATION THERAPY] and tbh I’m not afraid or nervous!",
+      "theme": "emotional",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Gryt Health",
+      "videoTitle": "Your First Chemo Treatment: What To Expect",
+      "url": "https://www.youtube.com/watch?v=dRxR-VCpP7g",
+      "score": 29
+    },
+    {
+      "text": "I'm free from cancer year and half but my tingling in my hands and feet is still there.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 23
+    },
+    {
+      "text": "My next appointment with my oncologist, my blood work came back normal.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 28
+    },
+    {
+      "text": "I got neuropathy bad it’s going away but after my 3rd round almost done I got it in my feet scary…anyone reading this please stay positive hang in there after chemo a couple of weeks you will feel so much better good luck and god bless",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 24
+    },
+    {
+      "text": "I would have taken the chemo to make sure the micro metastasis are taken care of.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "The Patient Story",
+      "videoTitle": "My Fatigue Was Actually Colon Cancer! - Maddee | Colon Cancer | The Patient Story",
+      "url": "https://www.youtube.com/watch?v=uDtJn685ZRE",
+      "score": 24
+    },
+    {
+      "text": "Hi, everyone .Just wanted to share my experience with side effects from chemo.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 21
+    },
+    {
+      "text": "The primary side effect for me that I haven’t seen mentioned by Jelena in this video is severe diarrhea accompanies by a loss of appetite.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 21
+    },
+    {
+      "text": "I’m also having stomach cramps, some abdominal pain, frequent gases and heartburn.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 21
+    },
+    {
+      "text": "I’ve already had changes in taste, fatigue, weight loss, and severe constipation!",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 21
+    },
+    {
+      "text": "My husband stage four esphogel stomach cancer, and he threw up everytime he got dosed.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 21
+    },
+    {
+      "text": "For hours I thought he was vomiting up his tumor, which size of my fist.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 21
+    },
+    {
+      "text": "Suprep was the best but my insurance won't cover it anymore.",
+      "theme": "logistical",
+      "dimension": "logistical_friction",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Mark Cooper, MD",
+      "videoTitle": "Can&#39;t Handle Colonoscopy Prep? WATCH THIS for Advice/Tips",
+      "url": "https://www.youtube.com/watch?v=uJX44uYqMws",
+      "score": 16
+    },
+    {
+      "text": "I did everything this video said(with out knowing because I never saw it until now) and my symptoms from chemo was the same as my friends but more tolerable.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Marina Blackford",
+      "videoTitle": "Managing Chemo Fatigue Effectively With THESE Tips",
+      "url": "https://www.youtube.com/watch?v=TOPCojE4W64",
+      "score": 21
+    },
+    {
+      "text": "Chemo is a multi billion $$ industry they dont want a cure ..trust me i work in health insurance...its all rigged...natural cures ..ivermectin is super safe and effective parasites cause cancer.",
+      "theme": "financial",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "MYAutoimmuneMD ",
+      "videoTitle": "The Anticancer Potential of Ivermectin and Fenbendazole",
+      "url": "https://www.youtube.com/watch?v=0JYTtbzasMM",
+      "score": 18
+    },
+    {
+      "text": "My other doctor didn't seem to think my enlarged liver, bloodwork and symptoms were alarming.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "The Patient Story",
+      "videoTitle": "My Fatigue Was Actually Colon Cancer! - Maddee | Colon Cancer | The Patient Story",
+      "url": "https://www.youtube.com/watch?v=uDtJn685ZRE",
+      "score": 16
+    },
+    {
+      "text": "During chemo, I never got nausea, because I bought me 2 seabands, the same you use on cruises.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Treatment Updates",
+      "videoTitle": "How Long Chemo Side Effects Really Last?",
+      "url": "https://www.youtube.com/watch?v=T1_wCs69I0E",
+      "score": 15
+    },
+    {
+      "text": "My husband got diagnosed with rectal cancer stage 3 a few days ago 😢💔 Tuesday we are scheduled to meet the chemo & radiation doctors .",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "What is FOLFOX Chemotherapy?",
+      "url": "https://www.youtube.com/watch?v=8nfuK5nnK14",
+      "score": 13
+    },
+    {
+      "text": "It knocked my WBC but soldiered on ,I had nausea but managable.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 13
+    },
+    {
+      "text": "If I ever have to get another colonoscopy, I'll definitely take Sutabs even if I have to pay out of pocket (insurance may not cover the cost as they're expensive)",
+      "theme": "logistical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Mark Cooper, MD",
+      "videoTitle": "Can&#39;t Handle Colonoscopy Prep? WATCH THIS for Advice/Tips",
+      "url": "https://www.youtube.com/watch?v=uJX44uYqMws",
+      "score": 8
+    },
+    {
+      "text": "got diagnosed with b-cell acute lymphoblastic leukemia and my chemo will start tomorrow.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Gryt Health",
+      "videoTitle": "Your First Chemo Treatment: What To Expect",
+      "url": "https://www.youtube.com/watch?v=dRxR-VCpP7g",
+      "score": 13
+    },
+    {
+      "text": "I’m on folfox chemo right now and something that was killing me was the smell when they flush the Chest port with Xylene.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [
+        "folfox"
+      ],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 12
+    },
+    {
+      "text": "One pf the nurse told me to eat mints while they flush the port .",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 12
+    },
+    {
+      "text": "When I was in the hospital 20 years ago had Open Heart surgery when I was in the recovery room, a nurse came to my bedside upon waking up , she said with a light voice tone, be sure to eat your vegatables, Food is Medicine..",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 12
+    },
+    {
+      "text": "that is right during chemotherapy in the hospital I sow people they are drinking soda , chips a lot of process food providing by hospital I don’t get it,",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 12
+    },
+    {
+      "text": "I get my port Friday im stage 4 pancreatic cancer unfortunately it has spred to my liver so this is my only chance to live a little longer you definitely eased my mind thank you",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 11
+    },
+    {
+      "text": "Anything cold taste like extremely sour lemons and that killed my appetite.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 11
+    },
+    {
+      "text": "My mom is suffering dry skin, bone pain, scalp tingling, hair loss.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 11
+    },
+    {
+      "text": "I have not had the usual side effects of Chemo but I just feel so unwell they have now stopped treatment for my body to try to recover.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Treatment Updates",
+      "videoTitle": "How Long Chemo Side Effects Really Last?",
+      "url": "https://www.youtube.com/watch?v=T1_wCs69I0E",
+      "score": 11
+    },
+    {
+      "text": "My dad went through his first FOLFOX treatment and is now experiencing the side effects.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "folfox"
+      ],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 10
+    },
+    {
+      "text": "Chemo has almost killed my husband he's been SO sick he's lost 2 stone and been hospitalised on each occasion it really depends what chemo yr getting they are all different",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 10
+    },
+    {
+      "text": "This 4th one was the worst of it as far as the fatigue is concerned so I'm trying to be positive and focus on the fact that it hasn't really been bad until this one.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Marina Blackford",
+      "videoTitle": "Managing Chemo Fatigue Effectively With THESE Tips",
+      "url": "https://www.youtube.com/watch?v=TOPCojE4W64",
+      "score": 10
+    },
+    {
+      "text": "Four and a half years ago, I was diagnosed, had surgery and rejected all conventional treatments (doctors were FURIOUS).",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Gryt Health",
+      "videoTitle": "Your First Chemo Treatment: What To Expect",
+      "url": "https://www.youtube.com/watch?v=dRxR-VCpP7g",
+      "score": 10
+    },
+    {
+      "text": "I've learned ALOT about nutrition while researching my options before surgery and from my holistic doctor.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Gryt Health",
+      "videoTitle": "Your First Chemo Treatment: What To Expect",
+      "url": "https://www.youtube.com/watch?v=dRxR-VCpP7g",
+      "score": 10
+    },
+    {
+      "text": "I finished chemo about one year ago and still have significant numbness in my feet.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 4
+    },
+    {
+      "text": "I’ve had some short term memory issues develop as well as some difficulty coming up with words when I speak.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Survivor Jelena",
+      "videoTitle": "FOLFOX Side Effects and Tips to Deal With Them",
+      "url": "https://www.youtube.com/watch?v=pNLak9XkYtA",
+      "score": 4
+    },
+    {
+      "text": "I just had another CT scan the cancer is now in my lungs and liver so now I'm at l level 4!",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 9
+    },
+    {
+      "text": "Ever since Chemotherapy & Radiation treatments I am totally exhausted.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 9
+    },
+    {
+      "text": "I found out today that my appointment in 2 days is chemo infusion and no doctor has talked to me anything about what to expect",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Gryt Health",
+      "videoTitle": "Your First Chemo Treatment: What To Expect",
+      "url": "https://www.youtube.com/watch?v=dRxR-VCpP7g",
+      "score": 9
+    },
+    {
+      "text": "Fatigue is one of the worst side effects I'm experiencing.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
+      "text": "My right foot is numb, so far I fell 3 times, breaking 3 toes.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 3
+    },
+    {
+      "text": "It went away but someone could explain that this could happen chemo did make me sick on third day after treatment they gave me lots of meds to make it stop but still the feeling of I am going to throw up doesn’t go away I was exhausted but couldn’t sleep.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
+      "text": "My long straight hair came back curly like I had a perm with grey in it.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "12 Things NO ONE Tells You About CHEMO (DON’T MISS THIS)",
+      "url": "https://www.youtube.com/watch?v=mDTNX7ffwi4",
+      "score": 8
+    },
+    {
+      "text": "On **25th July, I was diagnosed with Stage 4 colon cancer**, which had spread to my uterus, liver and spine.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Age 27 stage 4 colon cancer",
+      "url": "https://reddit.com/r/coloncancer/comments/1wvwpkl/age_27_stage_4_colon_cancer/",
+      "score": 131,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I’m currently waiting for my CT results to find out how things are responding to treatment.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Age 27 stage 4 colon cancer",
+      "url": "https://reddit.com/r/coloncancer/comments/1wvwpkl/age_27_stage_4_colon_cancer/",
+      "score": 131,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I’m 41f and have stage IV colorectal cancer with metastasis to my lungs.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "How do you deal with the anger?",
+      "url": "https://reddit.com/r/coloncancer/comments/1wrwuom/how_do_you_deal_with_the_anger/",
+      "score": 29,
+      "author": "[deleted]"
+    },
+    {
+      "text": "After chemo ends, the PET scan following that will determine my next steps.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "How do you deal with the anger?",
+      "url": "https://reddit.com/r/coloncancer/comments/1wrwuom/how_do_you_deal_with_the_anger/",
+      "score": 29,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My oncologist said he is planning on just chemo (likely FOLFOX) I think he said for 4 rounds and no radiation.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [
+        "folfox"
+      ],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "32M Blood In Stool",
+      "url": "https://reddit.com/r/coloncancer/comments/1wuy5wv/32m_blood_in_stool/",
+      "score": 17,
+      "author": "[deleted]"
+    },
+    {
+      "text": "The tumor board still has to give the final approved plan on October 9th as we are still pending tests to see if I’m an immunotherapy candidate, but assuming the plan is going to be what the oncologist is estimating, I would love some advice and insight for anyone who has had a similar diagnosis.",
+      "theme": "system",
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "32M Blood In Stool",
+      "url": "https://reddit.com/r/coloncancer/comments/1wuy5wv/32m_blood_in_stool/",
+      "score": 17,
+      "author": "[deleted]"
+    },
+    {
+      "text": "At my last appointment, it more than doubled from 5.6 to 12.4 in just three weeks.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Made it to Kansas City",
+      "url": "https://reddit.com/r/coloncancer/comments/1wqy8f1/made_it_to_kansas_city/",
+      "score": 15,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Something in my mind just isn't adding up - I know it means it's hugely aggressive to grow through the FOLFOX, but I am young and otherwise fit, have no genetic mutations, and there are no distant metastasis to lungs, liver or bone.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [
+        "folfox"
+      ],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Looking for a bit of hope after downbeat chat with oncologist",
+      "url": "https://reddit.com/r/coloncancer/comments/1wvqzp4/looking_for_a_bit_of_hope_after_downbeat_chat/",
+      "score": 13,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My mom was diagnosed with Alzheimer's about 2 years ago and while she's not incapacitated, she does have noticeable short term memory loss and cannot provide care.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "My dad got diagnosed with colon cancer. Stuff is moving quickly - he has a CT on Oct 3 and surgery on November 28th. Can you tell me about your post-surgery experiences?",
+      "url": "https://reddit.com/r/coloncancer/comments/1wvmgp1/my_dad_got_diagnosed_with_colon_cancer_stuff_is/",
+      "score": 4,
+      "author": "[deleted]"
+    },
+    {
+      "text": "So for the past 9 months I’ve been getting chemotherapy locally, while my original oncologist works at a bigger NCI three hours away.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Switching primary oncologist",
+      "url": "https://reddit.com/r/coloncancer/comments/1wtmh9z/switching_primary_oncologist/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "He doesn’t seem prepared for our video appointment, and very rarely has any guidance.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Switching primary oncologist",
+      "url": "https://reddit.com/r/coloncancer/comments/1wtmh9z/switching_primary_oncologist/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "At today’s chemo infusion I told the local, treating oncologist I’d prefer if he takes over my care.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Switching primary oncologist",
+      "url": "https://reddit.com/r/coloncancer/comments/1wtmh9z/switching_primary_oncologist/",
+      "score": 8,
+      "author": "[deleted]"
+    },
+    {
+      "text": "We got a second opinion at another hospital, and they recommended chemo first followed by surgery.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Treatment Plan - T3 sigmoid/rectosigmoid cancer",
+      "url": "https://reddit.com/r/coloncancer/comments/1wuav8q/treatment_plan_t3_sigmoidrectosigmoid_cancer/",
+      "score": 6,
+      "author": "[deleted]"
+    },
+    {
+      "text": "my right leg was feeling tingling and numb from the knee down.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "“Something Doesn’t Feels Right“",
+      "url": "https://reddit.com/r/coloncancer/comments/1wsuc6c/something_doesnt_feels_right/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My colon from the ct scan abdomen with contrast came back normal, I don’t have any diabetes, but liver was tad bit abnormal but my Gastroenterologist just told me to do another lab work to check my liver and I did and that came back normal aswel.",
+      "theme": "logistical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "“Something Doesn’t Feels Right“",
+      "url": "https://reddit.com/r/coloncancer/comments/1wsuc6c/something_doesnt_feels_right/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "8 weeks and 4 days after my open LAR surgery and I still have daily pain in my butt.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Post Open LAR surgery",
+      "url": "https://reddit.com/r/coloncancer/comments/1wr5lif/post_open_lar_surgery/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Slowly gaining my weight back, but I still feel weak after losing 9 kg during neoadjuvant treatment + surgery.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Post Open LAR surgery",
+      "url": "https://reddit.com/r/coloncancer/comments/1wr5lif/post_open_lar_surgery/",
+      "score": 5,
+      "author": "[deleted]"
+    },
+    {
+      "text": "The CT will confirm but at least initial test results seems like we caught it early.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "My dad got diagnosed with colon cancer. Stuff is moving quickly - he has a CT on Oct 3 and surgery on November 28th. Can you tell me about your post-surgery experiences?",
+      "url": "https://reddit.com/r/coloncancer/comments/1wvmgp1/my_dad_got_diagnosed_with_colon_cancer_stuff_is/",
+      "score": 4,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I plan to fly over for the surgery and the entire 6 week recovery (fortunately, I work remotely anyways).",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "My dad got diagnosed with colon cancer. Stuff is moving quickly - he has a CT on Oct 3 and surgery on November 28th. Can you tell me about your post-surgery experiences?",
+      "url": "https://reddit.com/r/coloncancer/comments/1wvmgp1/my_dad_got_diagnosed_with_colon_cancer_stuff_is/",
+      "score": 4,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I have colon cancer and I’m hoping to not have to get surgery but of course I will if I have to.",
+      "theme": null,
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "lymphovascular invasion: cannot be determined",
+      "url": "https://reddit.com/r/coloncancer/comments/1wuiknj/lymphovascular_invasion_cannot_be_determined/",
+      "score": 3,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Tomorrow I’m headed into treatment #6 and a few of my fingers have peeled to the point of being very red and very painful.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Help with hand-foot syndrome!",
+      "url": "https://reddit.com/r/coloncancer/comments/1wux6l7/help_with_handfoot_syndrome/",
+      "score": 2,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My mother has/had the earliest form of stage 3 with a small 10cm T1 tumor.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Why did the oncologist say that recurrence tends to happen at multiple sites?",
+      "url": "https://reddit.com/r/coloncancer/comments/1wut74b/why_did_the_oncologist_say_that_recurrence_tends/",
+      "score": 2,
+      "author": "[deleted]"
+    },
+    {
+      "text": "So yeasterday I had a CT scan with rectal contrast to see if I have a leak where I am connected...",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Post LAR healing complication. Rectal Contrast in JP Drain... is that an indication of an Anastomosis Leak?",
+      "url": "https://reddit.com/r/coloncancer/comments/1wwmo1s/post_lar_healing_complication_rectal_contrast_in/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "When I got out my oncologist changed it to just opdivo.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [
+        "opdivo"
+      ],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Immunotherapy helped me !",
+      "url": "https://reddit.com/r/coloncancer/comments/1ww5ikr/immunotherapy_helped_me/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Now here we are in September October and I had my first CT scan and I have no cancer cells as we speak !",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "Immunotherapy helped me !",
+      "url": "https://reddit.com/r/coloncancer/comments/1ww5ikr/immunotherapy_helped_me/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Now Im struggling with fatigue back pain shoulder pain and stomach cramping everytime I eat I have mild cramping or the urge to poop 💩 bowel changes one pin it’s yellowish mushy poop next it’s diarrhea",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "27F WITH 🚨SYMPTOMS",
+      "url": "https://reddit.com/r/coloncancer/comments/1wu20hj/27f_with_symptoms/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "But in the beginning of this year I’ve done blood work to check my liver, colon and to see if I have diabetes.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "“Something Doesn’t Feels Right“",
+      "url": "https://reddit.com/r/coloncancer/comments/1wsuc6c/something_doesnt_feels_right/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I’m feeling quick sharp pains near the colon even after the ct scan.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "coloncancer",
+      "postTitle": "“Something Doesn’t Feels Right“",
+      "url": "https://reddit.com/r/coloncancer/comments/1wsuc6c/something_doesnt_feels_right/",
+      "score": 1,
+      "author": "[deleted]"
+    }
+  ],
+  "themes": {
+    "physical": {
+      "label": "Physical symptoms & side effects",
+      "count": 34
+    },
+    "neuropathy": {
+      "label": "Peripheral neuropathy",
+      "count": 6
+    },
+    "cognitive": {
+      "label": "Chemo-brain / cognitive effects",
+      "count": 2
+    },
+    "logistical": {
+      "label": "Logistical barriers & access",
+      "count": 3
+    },
+    "emotional": {
+      "label": "Emotional & mental health",
+      "count": 2
+    },
+    "system": {
+      "label": "Healthcare system & care navigation",
+      "count": 31
+    },
+    "financial": {
+      "label": "Financial & insurance burden",
+      "count": 1
+    },
+    "worklife": {
+      "label": "Work, family & relationships",
+      "count": 8
+    },
+    "uncertainty": {
+      "label": "Diagnosis, prognosis & uncertainty",
+      "count": 18
+    }
+  }
+}
