@@ -1,0 +1,1371 @@
+{
+  "metadata": {
+    "generatedAt": "2026-10-20T06:53:58.886Z",
+    "cancerType": "breast",
+    "sources": [
+      {
+        "name": "YouTube",
+        "videosAnalyzed": 14,
+        "commentsAnalyzed": 314,
+        "quotesExtracted": 80
+      },
+      {
+        "name": "Reddit",
+        "postsAnalyzed": 41,
+        "quotesExtracted": 33
+      }
+    ]
+  },
+  "quotes": [
+    {
+      "text": "I had an EMG up and down all 4 dudes of my legs 😢 I was diagnosed with severe neuropathy and told there was nothing they could do for me.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 32
+    },
+    {
+      "text": "My legs felt like they were on fire and pain that felt like a hammer was pounding on my feet.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 32
+    },
+    {
+      "text": "My fingertips were so numb that fussing with buttons and zippers was a bit of a challenge.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "The Patient Story",
+      "videoTitle": "Peripheral Neuropathy: My Side Effect from Cancer Treatment | The Patient Story",
+      "url": "https://www.youtube.com/watch?v=NIGsvYGwSdk",
+      "score": 25
+    },
+    {
+      "text": "Now it's hard to sleep because my ankles and feet get painful pins and needles, and restless legs.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 28
+    },
+    {
+      "text": "I’ve had mine since the beginning of chemotherapy and my oncologist didn’t care about it happening to me.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 16
+    },
+    {
+      "text": "I have found B vitamins to be helpful in decreasing neuropathy in my feet, face and arm.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Rehab PT",
+      "videoTitle": "Peripheral Neuropathy Treatment - Finding Relief from Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=85Def5r1c7A",
+      "score": 14
+    },
+    {
+      "text": "After 9 rounds of chemo both of my entire feet are numb and my finger tips are numb.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 8
+    },
+    {
+      "text": "I have to wear gloves when taking things from the fridge or the tips of my fingers burn.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 7
+    },
+    {
+      "text": "I didn’t get it from chemotherapy though — none of my doctors can figure out why I have it.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Rehab PT",
+      "videoTitle": "Peripheral Neuropathy Treatment - Finding Relief from Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=85Def5r1c7A",
+      "score": 12
+    },
+    {
+      "text": "So far I’m about 75% healed after having peripheral neuropathy from the neck down to my feet.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Rehab PT",
+      "videoTitle": "Peripheral Neuropathy Treatment - Finding Relief from Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=85Def5r1c7A",
+      "score": 12
+    },
+    {
+      "text": "I basically stay home unless I have a doctor's appointment because it's just to painful going out.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "The Patient Story",
+      "videoTitle": "Peripheral Neuropathy: My Side Effect from Cancer Treatment | The Patient Story",
+      "url": "https://www.youtube.com/watch?v=NIGsvYGwSdk",
+      "score": 11
+    },
+    {
+      "text": "After the end of my chemo I asked my doctor how long until the numbness went away in my feet.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 6
+    },
+    {
+      "text": "However I still have some numbness in my fingertips (as an avid patchworker and embroidery this make picking up pins and needles difficult) and my toes are still numb.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 6
+    },
+    {
+      "text": "They are covered in tiny prickly elements that continuously massage my feet and provide extra feedback from the ground (so I can keep my balance better).",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 6
+    },
+    {
+      "text": "As someone living with metastatic breast cancer, I can reassure you that many survivors and warriors I have met and spoken with are very comfortable with the expression \"chemo brain\".",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "Memory Loss and Breast Cancer Treatment: How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=nurKMcOnwVQ",
+      "score": 6
+    },
+    {
+      "text": "No nausea yet but I am experiencing exhaustion, dry mouth, bones are hurting, hair has changed, a little stringy, not soft anymore, a little rash, nothing serious.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 10
+    },
+    {
+      "text": "I have Invasive Ductal carcinoma and has spread to my lymph nodes.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 10
+    },
+    {
+      "text": "In addition to the insomnia and hot flashes, I am going to be losing my keys for the next 5 year's?",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "Memory Loss and Breast Cancer Treatment: How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=nurKMcOnwVQ",
+      "score": 10
+    },
+    {
+      "text": "I have not found any thing that helps at this stage the depth of numb ness in much greater in the feet.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "The Patient Story",
+      "videoTitle": "Peripheral Neuropathy: My Side Effect from Cancer Treatment | The Patient Story",
+      "url": "https://www.youtube.com/watch?v=NIGsvYGwSdk",
+      "score": 4
+    },
+    {
+      "text": "I had chemotherapy for 6 months fir colon cancer stage 3 & finally finished treatments on July 5 2022 but my hands & feet are tingling numbness just wondering will it go away soon .",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Rehab PT",
+      "videoTitle": "Peripheral Neuropathy Treatment - Finding Relief from Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=85Def5r1c7A",
+      "score": 4
+    },
+    {
+      "text": "My fingers and toes are numb and my feet feel like concrete.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 4
+    },
+    {
+      "text": "My doctor doesn't give a rat's ass about my chemo-brain.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Breast Cancer Answers®",
+      "videoTitle": "5 Ways to Fight Chemo Brain",
+      "url": "https://www.youtube.com/watch?v=tMEugbbLnO8",
+      "score": 4
+    },
+    {
+      "text": "After i came back from school, my father approached me and told me to talk to my mom more often as she is experiencing memory loss.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "Memory Loss and Breast Cancer Treatment: How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=nurKMcOnwVQ",
+      "score": 4
+    },
+    {
+      "text": "I don't know of it was the chemo or the immunotherapy that has caused neuropathy but I have it my hands and feet.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "The Patient Story",
+      "videoTitle": "Peripheral Neuropathy: My Side Effect from Cancer Treatment | The Patient Story",
+      "url": "https://www.youtube.com/watch?v=NIGsvYGwSdk",
+      "score": 8
+    },
+    {
+      "text": "Today, 7 months after my last treatment I still have severe neuropathy in my feet and fingers.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "The Patient Story",
+      "videoTitle": "Peripheral Neuropathy: My Side Effect from Cancer Treatment | The Patient Story",
+      "url": "https://www.youtube.com/watch?v=NIGsvYGwSdk",
+      "score": 8
+    },
+    {
+      "text": "I want to minimize but literally my fingers turn white from lack of blood flow and not sure I could deal with that for 2 hours because I think that would cause nerve damage from the lack of blood flow.",
+      "theme": "neuropathy",
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 3
+    },
+    {
+      "text": "I was on vincristine for two rounds and they pulled it because the progression had already moved from my get and hand and goes up to my knees and sometimes even elbows, I was on carboplatin and vincristine together doctor said if we don’t pull it now I’ll likely have nerve damage the rest of my life, 27yr old pttp rare brain cancer, that spread to my spine",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [
+        "carboplatin"
+      ],
+      "source": "youtube",
+      "channel": "Cancer Rehab PT",
+      "videoTitle": "Peripheral Neuropathy Treatment - Finding Relief from Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=85Def5r1c7A",
+      "score": 3
+    },
+    {
+      "text": "I had my first chemo 3 days ago and I’m feeling my feet and hands kind of numb already :/",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 3
+    },
+    {
+      "text": "Burning fire nerve pain has now spread over my whole body.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 8
+    },
+    {
+      "text": "the chemo drugs I'm on cause cold sensitivity, so those gloves wouldn't prevent neuropathy for me.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 7
+    },
+    {
+      "text": "The shooting nerve pains stopped, but still have numbness and pins and needles now going up my arms and legs.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 2
+    },
+    {
+      "text": "That was really encouraging as I thought I was stuck with the nerve damage for life.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 2
+    },
+    {
+      "text": "That PN was more like being shocked up & down my spine with some tingly toes & feet.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 2
+    },
+    {
+      "text": "The medical profession is far removed from body mind spirit healing remedies - if you notice, the advice is always non committal to \"contact your physician.\" I realize everyone is unique and has unique physical needs, but we are in need of better solutions for the majority that experience chemo brain from the cancer treatments, and medications.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "The Leukemia & Lymphoma Society of Canada",
+      "videoTitle": "Life After Treatment &amp; Physical Effects: Chemo Brain (mild cognitive impairment)",
+      "url": "https://www.youtube.com/watch?v=S2LQ8y_8OpQ",
+      "score": 2
+    },
+    {
+      "text": "My memory is so bad that I call everyday Christmas as I forget clothing I own, decorations I've put away, things I've bought and when I find them again it's like a Christmas present to me!",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Breast Cancer Answers®",
+      "videoTitle": "How Long Does Chemo Brain Last?",
+      "url": "https://www.youtube.com/watch?v=EgmJIzsE9wc",
+      "score": 2
+    },
+    {
+      "text": "Neuropathy in my feet has gotten worse and is now I'm my calves too",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 6
+    },
+    {
+      "text": "It would have helped me so much to know that, because I was on paclitaxel and carboplatin and it was so confusing and disheartening when the neuropathy got worse soon after finishing.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "paclitaxel",
+        "carboplatin"
+      ],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 6
+    },
+    {
+      "text": "I received the first round of taxol and carboplatin just 5 days ago, and today I have tingling in my fingertips and toes and the bottom of my feet feel heavy 😢",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [
+        "taxol",
+        "carboplatin"
+      ],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 1
+    },
+    {
+      "text": "I start Paclitaxol in 2 weeks and have ordered my cold therapy gloves and socks to wear during chemo to reduce the risk of getting CIPN.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 1
+    },
+    {
+      "text": "I was given way too strong of chemo way too much Chemo about 8 years ago, it doesn’t go away, not for me, it’s very difficult for me to multitask and to concentrate, so difficult to learn anything new….I was put on SSI, can’t work, I am broke and in debt, I am single, so frustrated don’t know what to do to support myself.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Breast Cancer Answers®",
+      "videoTitle": "5 Ways to Fight Chemo Brain",
+      "url": "https://www.youtube.com/watch?v=tMEugbbLnO8",
+      "score": 1
+    },
+    {
+      "text": "You hear medical professionals time and time again telling folks like myself, with Chemobrain, to play memory games and other brain stimulating activities.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Breast Cancer Answers®",
+      "videoTitle": "How to Reverse the Affects of Chemo Brain",
+      "url": "https://www.youtube.com/watch?v=aALHMksGyGI",
+      "score": 1
+    },
+    {
+      "text": "I decided not to do radiation since that too may cause nerve damage .",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "The Patient Story",
+      "videoTitle": "Peripheral Neuropathy: My Side Effect from Cancer Treatment | The Patient Story",
+      "url": "https://www.youtube.com/watch?v=NIGsvYGwSdk",
+      "score": 0
+    },
+    {
+      "text": "I have a numb.midde finger on my right hand the side my chemotherapy port was on....",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Doctor Grew Explains Cancer",
+      "videoTitle": "Doctor Explains Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=k3GGyRXlZtY",
+      "score": 0
+    },
+    {
+      "text": "My oncologist told me the meds for neuropathy only tend to help out with the painful and warm version, and not the numbing and tingling version.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 5
+    },
+    {
+      "text": "I heard the ice gloves and feet and head for 3 hours during chemo treatments 😢😢😢😢",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 0
+    },
+    {
+      "text": "My father is suffering because of tingling sensation in his fingers and toe tips since 2 years.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Rehab PT",
+      "videoTitle": "Peripheral Neuropathy Treatment - Finding Relief from Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=85Def5r1c7A",
+      "score": 0
+    },
+    {
+      "text": "tingling lol its like a sun burn in both my feet and hands from my chemotherapy its been four months taking four doses of gabapentin 300 mg caps",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Rehab PT",
+      "videoTitle": "Peripheral Neuropathy Treatment - Finding Relief from Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=85Def5r1c7A",
+      "score": 0
+    },
+    {
+      "text": "My feet so numb they feel like they are not there sometimes, also got my oxaliplatin cancelled on round 11 of chemo as the numbness crept up my legs and into my calves got abit off balance walking, oh and i started my first round of chemo over a year ago and seems to have got worse overtime very sensitive to cold cant seem to get them warm",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [
+        "oxaliplatin"
+      ],
+      "source": "youtube",
+      "channel": "Cancer Rehab PT",
+      "videoTitle": "Peripheral Neuropathy Treatment - Finding Relief from Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=85Def5r1c7A",
+      "score": 0
+    },
+    {
+      "text": "I'm six weeks in with chemotherapy and the tingling of my hands and feet is terrible.",
+      "theme": "neuropathy",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 0
+    },
+    {
+      "text": "I did forgo my last two treatments because of leg pain- especially when standing.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 5
+    },
+    {
+      "text": "I beat the cancer, migraines, and painful bladder syndrome- so cipn, now, is next!",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 5
+    },
+    {
+      "text": "It was likely compounded by my life-long, poor working memory.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Breast Cancer Answers®",
+      "videoTitle": "5 Ways to Fight Chemo Brain",
+      "url": "https://www.youtube.com/watch?v=tMEugbbLnO8",
+      "score": 0
+    },
+    {
+      "text": "I’m reassured that my problems with memory and organisation are not unusual.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Breast Cancer Answers®",
+      "videoTitle": "5 Ways to Fight Chemo Brain",
+      "url": "https://www.youtube.com/watch?v=tMEugbbLnO8",
+      "score": 0
+    },
+    {
+      "text": "My mother is currently expiriencing Chemo Brain she tends to have outbursts to performing tasks.",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Breast Cancer Answers®",
+      "videoTitle": "How Long Does Chemo Brain Last?",
+      "url": "https://www.youtube.com/watch?v=EgmJIzsE9wc",
+      "score": 0
+    },
+    {
+      "text": "I wish that I had been informed of the cognitive impairment.",
+      "theme": "cognitive",
+      "dimension": "desired_outcomes",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Oncology.TV",
+      "videoTitle": "Chemotherapy-Related Cognitive Impairment: The Breast Cancer Experience.",
+      "url": "https://www.youtube.com/watch?v=LAQDhj2OD7Y",
+      "score": 0
+    },
+    {
+      "text": "Cold therapy (foot/hand cold packs) has helped keep neuropathy to be bad till the end of my Taxol treatments.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "taxol"
+      ],
+      "source": "youtube",
+      "channel": "Doctor Grew Explains Cancer",
+      "videoTitle": "Doctor Explains Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=k3GGyRXlZtY",
+      "score": 4
+    },
+    {
+      "text": "The neuropathy i get from the ongoing treatment with oxaliplatin is really becoming a big deal...",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "oxaliplatin"
+      ],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 4
+    },
+    {
+      "text": "Advised me to take Dexametheson, for nausea and this made my sugars go way high.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 4
+    },
+    {
+      "text": "Painfull, at times I would have to take pain meds, this started after first chemo round and lasted 6-7 days",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 4
+    },
+    {
+      "text": "I developed neuropathy in my feet and hands during chemotherapy.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 4
+    },
+    {
+      "text": "It's so true, I have been watching my wife suffering from brutal chemotherapy",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "Memory Loss and Breast Cancer Treatment: How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=nurKMcOnwVQ",
+      "score": 4
+    },
+    {
+      "text": "Shop my Foot and Toe Neuropathy Handout: https://bit.ly/Foot-Neuropathy-Exercises",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Rehab PT",
+      "videoTitle": "Peripheral Neuropathy Treatment - Finding Relief from Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=85Def5r1c7A",
+      "score": 3
+    },
+    {
+      "text": "Shop my Hand and Finger Neuropathy Handout: https://bit.ly/Hand-Neuropathy-Exercises",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Rehab PT",
+      "videoTitle": "Peripheral Neuropathy Treatment - Finding Relief from Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=85Def5r1c7A",
+      "score": 3
+    },
+    {
+      "text": "I am about 18 months after my last chemo, and I feel the neuropathy only in the tip of my thumb.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 3
+    },
+    {
+      "text": "My feet, lower legs, fingers and lips are still neuropathy laced 3 months from my last session .No pain, but when is it going away?",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "The Patient Story",
+      "videoTitle": "Peripheral Neuropathy: My Side Effect from Cancer Treatment | The Patient Story",
+      "url": "https://www.youtube.com/watch?v=NIGsvYGwSdk",
+      "score": 2
+    },
+    {
+      "text": "Now it is worse even though my Doctor did take one infusion out of my chemo twice.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 2
+    },
+    {
+      "text": "I had my last chemo May 1 however my neuropathy is awful.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 2
+    },
+    {
+      "text": "My sister had chemotherapy for Mutiple Myeloma she is suffering from burning pain in her vigina.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Dr. Amy - Cancer Researcher & Cancer Survivor",
+      "videoTitle": "How to Fix Chemo Neuropathy (Symptoms and Treatment)",
+      "url": "https://www.youtube.com/watch?v=uPFMtFljVFw",
+      "score": 2
+    },
+    {
+      "text": "This is the very first piece I have found in weeks of research that honestly talks about the pain of chemo.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 2
+    },
+    {
+      "text": "I had neuropathy in my hands and feet, but wasn't terrible.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 2
+    },
+    {
+      "text": "Once I started anastrozole, the neuropathy became worse with shooting nerve pains through my feet.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "anastrozole"
+      ],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 2
+    },
+    {
+      "text": "I didn’t neuropathy in my hands till the last 3 weekly cycles and had to miss my very last weekly cycle.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 2
+    },
+    {
+      "text": "The peripheral neuropathy in my fingers and feet started to improve a year after finishing chemo but in the last 6 months it's become worse again.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 2
+    },
+    {
+      "text": "I had quite a bit of peripheral neuropathy in fingers and toes.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How Long Does Neuropathy Last? Cancer Doctor Explains How to Manage and What to Expect",
+      "url": "https://www.youtube.com/watch?v=JK_106Vzmuw",
+      "score": 2
+    },
+    {
+      "text": "I started chemo treatment on 2/7/23 & didn’t really notice the increased neuropathy until I was done with chemo.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 2
+    },
+    {
+      "text": "Now my lower limbs are numb and painful which make walking difficult.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 2
+    },
+    {
+      "text": "Please tell me about managing side effects from filigastrim shot after chemo.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Yerbba – Breast Cancer",
+      "videoTitle": "How to Treat and Manage Peripheral Neuropathy From Cancer Treatment",
+      "url": "https://www.youtube.com/watch?v=weh3SGcWIFQ",
+      "score": 2
+    },
+    {
+      "text": "10 years since last tx and I never recovered from chemo brain and fatigue.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Breast Cancer Answers®",
+      "videoTitle": "How Long Does Chemo Brain Last?",
+      "url": "https://www.youtube.com/watch?v=EgmJIzsE9wc",
+      "score": 2
+    },
+    {
+      "text": "Imbdeeing this with my dad now.He tolerated the infusions pretty well.He' s on pills now and the capecitabine is creting havic with his body.He had really bad mouth ulcers and he lost 4 kgs in 2 weeks( 80 years old and already frail) .Now he has this neuropathy where his feet tingle burn and is in pain and his hands",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "capecitabine"
+      ],
+      "source": "youtube",
+      "channel": "The Patient Story",
+      "videoTitle": "Peripheral Neuropathy: My Side Effect from Cancer Treatment | The Patient Story",
+      "url": "https://www.youtube.com/watch?v=NIGsvYGwSdk",
+      "score": 1
+    },
+    {
+      "text": "I find I have general nerve damage in many areas smell, taste, balance, appetite and others.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "youtube",
+      "channel": "Cancer Rehab PT",
+      "videoTitle": "Peripheral Neuropathy Treatment - Finding Relief from Chemotherapy Induced Peripheral Neuropathy",
+      "url": "https://www.youtube.com/watch?v=85Def5r1c7A",
+      "score": 1
+    },
+    {
+      "text": "Normally, I am very on top of stuff like this but with my Chemo brain, I was stupid!",
+      "theme": "cognitive",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Please do not get scammed!",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa2z4x/please_do_not_get_scammed/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Just leaving the hospital after telling my oncologist I can’t bare the side effects of tamoxifen anymore and am quitting after 5 years.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "tamoxifen"
+      ],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "I’ve decided to quit tamoxifen",
+      "url": "https://reddit.com/r/breastcancer/comments/1xahwys/ive_decided_to_quit_tamoxifen/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I think my previous doctor (retired) said it was 12.5% with tamoxifen and 25% without tamoxifen.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [
+        "tamoxifen"
+      ],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "I’ve decided to quit tamoxifen",
+      "url": "https://reddit.com/r/breastcancer/comments/1xahwys/ive_decided_to_quit_tamoxifen/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "But my new doctor just says my reoccurrence rate will have a 3.7% advantage with tamoxifen.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [
+        "tamoxifen"
+      ],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "I’ve decided to quit tamoxifen",
+      "url": "https://reddit.com/r/breastcancer/comments/1xahwys/ive_decided_to_quit_tamoxifen/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I recently celebrated one year cancer-free (stage 2 IDC ++-, no node involvement) following lumpectomy and sentinal node removal (with clean margins), five weeks of radiation, and tamoxifen.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [
+        "tamoxifen"
+      ],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Is this recurrence curable?",
+      "url": "https://reddit.com/r/breastcancer/comments/1xaho4h/is_this_recurrence_curable/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I just had a full body PET scan that showed no metastases, which is a relief.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Is this recurrence curable?",
+      "url": "https://reddit.com/r/breastcancer/comments/1xaho4h/is_this_recurrence_curable/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I was about to take a break from tamoxifen to get pregnant, but goodness knows if that’s even a possibility for me now.",
+      "theme": "worklife",
+      "dimension": "pain_point",
+      "drugs": [
+        "tamoxifen"
+      ],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Is this recurrence curable?",
+      "url": "https://reddit.com/r/breastcancer/comments/1xaho4h/is_this_recurrence_curable/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I’ve been dealing with dizziness and nausea and migraines on a regular basis.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Tamoxifen break, holy moly",
+      "url": "https://reddit.com/r/breastcancer/comments/1xaf31a/tamoxifen_break_holy_moly/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I know the fatigue is supposed to be cumulative so I wasn’t expecting this at all.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Wild fatigue after day one of radiation",
+      "url": "https://reddit.com/r/breastcancer/comments/1xaf0q9/wild_fatigue_after_day_one_of_radiation/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My husband already had to take two sick days (one shift) last week because I had a total mental breakdown due to hormone fluctuations and fatigue from not sleeping.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Wild fatigue after day one of radiation",
+      "url": "https://reddit.com/r/breastcancer/comments/1xaf0q9/wild_fatigue_after_day_one_of_radiation/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Coincidentally, I had an appointment with gyno oncologist today (I am BRCA2+), she didn't seem concerned either.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Period???",
+      "url": "https://reddit.com/r/breastcancer/comments/1xae72j/period/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Fast forward to now and I have my first in person appointment with my radiologist coming up in the next few days as well as the CT scan so I can begin treatment the beginning of November.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Has anyone started their radiation treatments while still doing chemo?",
+      "url": "https://reddit.com/r/breastcancer/comments/1xae4ei/has_anyone_started_their_radiation_treatments/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I was going to ask during my appointment today, but I totally forgot 🫣",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Has anyone started their radiation treatments while still doing chemo?",
+      "url": "https://reddit.com/r/breastcancer/comments/1xae4ei/has_anyone_started_their_radiation_treatments/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I’m getting a lumpectomy with a Sentinel lymph node biopsy and that will be followed up with radiation.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Lymphedema with SLNB and Radiation",
+      "url": "https://reddit.com/r/breastcancer/comments/1xac3wb/lymphedema_with_slnb_and_radiation/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I heard that you’re at a higher risk of lymphedema if you get the SLNB plus radiation.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Lymphedema with SLNB and Radiation",
+      "url": "https://reddit.com/r/breastcancer/comments/1xac3wb/lymphedema_with_slnb_and_radiation/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "So I had a 3 month wait for my onc appointment after my biopsy came back positive.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Looking for a lawyer",
+      "url": "https://reddit.com/r/breastcancer/comments/1xac0yi/looking_for_a_lawyer/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "When I went to surgery, turned out I was a very slow growing stage III (initial ultrasounds and MRIs had missed the 2 lymph node mets - my surgeon found the 1st lymph macromet WITH HER HANDS).",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Looking for a lawyer",
+      "url": "https://reddit.com/r/breastcancer/comments/1xac0yi/looking_for_a_lawyer/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My hair is thinning rapidly and it has become a source of anxiety for me.",
+      "theme": "emotional",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Tamoxifen Benefits",
+      "url": "https://reddit.com/r/breastcancer/comments/1xabb69/tamoxifen_benefits/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Still waiting for Chemo and my first oncology appointment 28th October.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Lone parent and Chemo",
+      "url": "https://reddit.com/r/breastcancer/comments/1xaaf3b/lone_parent_and_chemo/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My absolute nightmare since diagnosis was having to do chemo.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "So scared of chemo",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa98hc/so_scared_of_chemo/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I don’t want to have that treatment and not even knowing if it works, but losing my long long hair and God knows what other long term side effects.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "So scared of chemo",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa98hc/so_scared_of_chemo/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "Now what I am most mad about is I have a blood collecting and I have to go back in Nov 6th for small Excision and my doctor was worried about saving my shape of my breast; I told her don’t worry about it shape of skin or nipple; Itold her I understood what the final pathology report would say or it could have been worst.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "I need to vent",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa66hv/i_need_to_vent/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I was at the hospital today for an ultrasound on my flat side.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Getting checked is Never a waste of time",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa5jbd/getting_checked_is_never_a_waste_of_time/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "They sat down next to me to wait for the ultrasound after seeing the consultant and had this conversation",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Getting checked is Never a waste of time",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa5jbd/getting_checked_is_never_a_waste_of_time/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "My op was on 28 August and the lymph nodes they removed were clear so I’m officially stage 1 and the next part of treatment is tamoxifen.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [
+        "tamoxifen"
+      ],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Feels like everyone else has moved on…",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa4rlj/feels_like_everyone_else_has_moved_on/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "When I spoke with the admin team today, they told me that people who do lumpectomies \"don't get plastic surgery consults\" and that the doctor typically does a good job, so unless I'm having a mastectomy, this isn't part of what they offer.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Lumpectomy & Reconstruction Question",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa4r6m/lumpectomy_reconstruction_question/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I can' t tell the truth that I am full of anger , sadness, fatigue, depression, anxiety, pain and general hatred of it all.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "Reverse toxic positivity",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa2i3b/reverse_toxic_positivity/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "It’s my first birthday since my diagnosis, I found my tumor 2 months after my 49th birthday.",
+      "theme": "uncertainty",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "First birthday since diagnosis",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa24pz/first_birthday_since_diagnosis/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I’m sitting in my house alone on my birthday waiting to go to a fucking infusion.",
+      "theme": "emotional",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "First birthday since diagnosis",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa24pz/first_birthday_since_diagnosis/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "And on top of it all I got my genetic test results and not only is the Effexor they put me on for my depression on the list of drugs that don’t work for me due to a mutation, tamoxifen is also on that list.",
+      "theme": "emotional",
+      "dimension": "pain_point",
+      "drugs": [
+        "tamoxifen"
+      ],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "First birthday since diagnosis",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa24pz/first_birthday_since_diagnosis/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "They were already talking about halfing my tamoxifen dose when I start for my mental health so I doubt increasing it substantially to account for the fact that I make zero enzyme, or an AI and suppression are going to be viable alternatives.",
+      "theme": null,
+      "dimension": "doubts_objections",
+      "drugs": [
+        "tamoxifen"
+      ],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "First birthday since diagnosis",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa24pz/first_birthday_since_diagnosis/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I could have taken tamoxifen and fought with side effects for 5 years thinking I was helping myself out only to have zero impact on recurrence.",
+      "theme": "physical",
+      "dimension": "pain_point",
+      "drugs": [
+        "tamoxifen"
+      ],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "First birthday since diagnosis",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa24pz/first_birthday_since_diagnosis/",
+      "score": 1,
+      "author": "[deleted]"
+    },
+    {
+      "text": "I’ve messaged oncology and have an appointment with psych this week so I’m doing all the things.",
+      "theme": "system",
+      "dimension": "pain_point",
+      "drugs": [],
+      "source": "reddit",
+      "subreddit": "breastcancer",
+      "postTitle": "First birthday since diagnosis",
+      "url": "https://reddit.com/r/breastcancer/comments/1xa24pz/first_birthday_since_diagnosis/",
+      "score": 1,
+      "author": "[deleted]"
+    }
+  ],
+  "themes": {
+    "physical": {
+      "label": "Physical symptoms & side effects",
+      "count": 48
+    },
+    "neuropathy": {
+      "label": "Peripheral neuropathy",
+      "count": 24
+    },
+    "cognitive": {
+      "label": "Chemo-brain / cognitive effects",
+      "count": 12
+    },
+    "logistical": {
+      "label": "Logistical barriers & access",
+      "count": 0
+    },
+    "emotional": {
+      "label": "Emotional & mental health",
+      "count": 3
+    },
+    "system": {
+      "label": "Healthcare system & care navigation",
+      "count": 17
+    },
+    "financial": {
+      "label": "Financial & insurance burden",
+      "count": 0
+    },
+    "worklife": {
+      "label": "Work, family & relationships",
+      "count": 2
+    },
+    "uncertainty": {
+      "label": "Diagnosis, prognosis & uncertainty",
+      "count": 6
+    }
+  }
+}
